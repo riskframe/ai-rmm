@@ -50,7 +50,7 @@
 
 3. Document compliance assessments and address any identified issues promptly.
 
-### Govern 1.1.4. Maintain documentation and train employees on the legal and regulatory requirements for AI.
+### Govern 1.1.5. Maintain documentation and train employees on the legal and regulatory requirements for AI.
 
 #### Sub Practices
 
@@ -64,7 +64,7 @@
 
 5. Integrate compliance practices into organizational training programs, onboarding processes, and performance evaluations.
 
-### Govern 1.1.5. Monitor compliance with these laws and regulations on an ongoing basis.
+### Govern 1.1.6. Monitor compliance with these laws and regulations on an ongoing basis.
 
 #### Sub Practices
 

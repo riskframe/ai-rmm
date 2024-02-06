@@ -6,7 +6,7 @@
     
 ## Manage 2.2: Mechanisms are in place and applied to sustain the value of deployed AI systems.
 
-## Manage 2.2.1. Establish Ongoing Monitoring and Evaluation.
+### Manage 2.2.1. Establish Ongoing Monitoring and Evaluation.
 
 #### Sub Practices
 
@@ -16,7 +16,7 @@
 
 3. Regularly evaluate the AI system's performance against its intended objectives and the evolving needs of users and stakeholders.
 
-## Manage 2.2.2. Implement Automated Maintenance and Updates.
+### Manage 2.2.2. Implement Automated Maintenance and Updates.
 
 #### Sub Practices
 
@@ -26,7 +26,7 @@
 
 3. Establish clear policies and procedures for managing and deploying AI updates to minimize disruptions and ensure system stability.
 
-## Manage 2.2.3. Conduct Regular Testing and Validation.
+### Manage 2.2.3. Conduct Regular Testing and Validation.
 
 #### Sub Practices
 
@@ -36,7 +36,7 @@
 
 3. Leverage automated testing tools and techniques to streamline the testing process and improve efficiency.
 
-## Manage 2.2.4. Address Performance Issues Proactively.
+### Manage 2.2.4. Address Performance Issues Proactively.
 
 #### Sub Practices
 
@@ -46,7 +46,7 @@
 
 3. Document performance incidents, root causes, and corrective actions taken to enable continuous improvement and prevent recurrence.
 
-## Manage 2.2.5. Facilitate Data Quality Management.
+### Manage 2.2.5. Facilitate Data Quality Management.
 
 #### Sub Practices
 
@@ -56,7 +56,7 @@
 
 3. Invest in data cleaning, preprocessing, and validation techniques to enhance data quality and minimize the impact of data errors on AI performance.
 
-## Manage 2.2.6. Promote Stakeholder Involvement and Feedback.
+### Manage 2.2.6. Promote Stakeholder Involvement and Feedback.
 
 #### Sub Practices
 
@@ -66,7 +66,7 @@
 
 3. Foster a culture of open communication and collaboration to facilitate continuous improvement and user-centric AI development.
 
-## Manage 2.2.7. Adapt to Evolving Needs and Technological Advancements.
+### Manage 2.2.7. Adapt to Evolving Needs and Technological Advancements.
 
 #### Sub Practices
 
