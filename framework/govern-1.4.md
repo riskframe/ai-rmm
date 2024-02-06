@@ -48,13 +48,13 @@
 
 ### Govern 1.4.5. Conduct regular risk management audits.
 
+#### Sub Practices
+
 1. Schedule regular audits to assess the effectiveness of the overall risk management framework, including policies, procedures, and controls.
 
 2. Engage independent auditors or internal risk management experts to conduct comprehensive audits.
 
 3. Identify areas for improvement and make necessary adjustments to the risk management framework.
-
-#### Sub Practices
 
 ### Govern 1.4.6. Integrate risk management into AI governance.
 

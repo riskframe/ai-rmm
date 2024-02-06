@@ -46,6 +46,8 @@
 
 ### Manage 2.4.5. Implement Prompt and Effective Disengagement Procedures.
 
+#### Sub Practices
+
 1. Develop and implement procedures for promptly disengaging or deactivating AI systems when the need arises.
 
 2. These procedures should clearly outline the steps to be taken, including notification of relevant stakeholders, documentation of the reasons for disengagement, and coordination with other affected systems or processes.
