@@ -102,3 +102,15 @@ Fostering a culture of responsible AI development and deployment involves priori
 
 3. Integrate these principles into organizational policies, procedures, and training programs to ensure a holistic approach to AI safety and accountability.
 
+### Manage 2.4: Work Products
+
+1.	Disengagement and Deactivation Framework Document - A comprehensive document outlining the procedures, criteria, and responsibilities for disengaging or deactivating AI systems that demonstrate inconsistent performance or outcomes.
+2.	Potential Disengagement Scenarios Analysis Report - A report detailing the identified potential scenarios necessitating the disengagement or deactivation of AI systems, along with the associated risks and mitigation strategies.
+3.	Clear Disengagement Criteria Document - Documentation outlining the specific conditions or thresholds that trigger the disengagement or deactivation of AI systems, ensuring transparency and consistency in decision-making.
+4.	Responsibility Assignment Matrix - A matrix specifying the roles and responsibilities of key stakeholders involved in the disengagement or deactivation process, ensuring accountability and clarity.
+5.	Disengagement Procedures Manual - A manual detailing the step-by-step procedures for promptly disengaging or deactivating AI systems, including notification protocols, documentation requirements, and coordination efforts.
+6.	~Transparency and Accountability Guidelines - Guidelines outlining the principles and practices for maintaining transparency and accountability throughout the disengagement process, including communication strategies and documentation standards.~
+7.	~Training Materials on Responsible AI Development - Training modules and resources designed to educate AI developers, operators, and stakeholders about ethical considerations, transparency, and accountability in AI deployment.~
+8.	Incident Response Simulation Exercises - Exercises simulating potential disengagement scenarios to test the effectiveness of response procedures and decision-making frameworks.
+9.	Continuous Improvement Plan - A plan outlining the steps and initiatives for continuously improving disengagement procedures, criteria, and readiness in response to evolving risks and technological advancements.
+10.	~Culture of Responsible AI Development Promotion Campaign - A campaign aimed at fostering a culture of responsible AI development and deployment within the organization, emphasizing ethical considerations, transparency, and accountability.~

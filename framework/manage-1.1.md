@@ -106,3 +106,15 @@ Regularly monitoring the AI system's performance and alignment with intended pur
 
 3. Foster a culture of continuous improvement and responsiveness to stakeholder needs.
 
+### Manage 1.1: Work Products
+
+1.	Documented Intended Purposes and Objectives - A document outlining the intended purposes and stated objectives of the AI system, ensuring clarity and alignment among stakeholders.
+2.	Requirements and Gap Analysis Report - A report detailing the results of requirements analysis and gap analysis, identifying any discrepancies between the system's capabilities and the desired outcomes.
+3.	Stakeholder Feedback Summary - A summary report capturing stakeholder feedback on the AI system's alignment with intended purposes and objectives, including perspectives on effectiveness, risks, and improvement opportunities.
+4.	Tradeoffs and Constraints Assessment Matrix - An assessment matrix outlining the tradeoffs and constraints associated with the AI system's development and deployment, guiding decision-making processes.
+5.	~Decision Documentation Package - A comprehensive package documenting the rationale behind decisions regarding the AI system's advancement, including considerations such as alignment, stakeholder feedback, tradeoffs, and constraints.~
+6.	Governance Framework and Procedures Manual - A manual defining the governance mechanisms, roles, responsibilities, and decision-making procedures for overseeing the AI system's development, deployment, and operation.
+7.	Monitoring and Adaptation Plan - A plan detailing the mechanisms and processes for continuously monitoring the AI system's performance and alignment with intended purposes, along with strategies for adaptation based on feedback and evolving circumstances.
+8.	~Training Materials on Governance and Monitoring - Training materials and resources to educate stakeholders on governance mechanisms, monitoring processes, and their roles in ensuring alignment and effectiveness of the AI system.~
+9.	Documentation Template for Continual Improvement Initiatives - A template for documenting continual improvement initiatives, including feedback loops, lessons learned, and action plans for optimizing the AI system over time.
+10.	Review and Audit Schedule - A schedule outlining regular reviews and audits of the AI system's alignment with intended purposes and objectives, ensuring ongoing assessment and improvement.
