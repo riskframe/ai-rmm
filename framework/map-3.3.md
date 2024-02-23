@@ -8,6 +8,10 @@
 
 ### Map 3.3.1. Clearly Define AI System Capabilities.
 
+Clearly defining AI system capabilities involves thoroughly outlining the range of functions, tasks, and operations that the AI system is designed to perform. This includes identifying its strengths, limitations, and areas of expertise, ensuring a comprehensive understanding of its capabilities within the established context. By clearly defining these capabilities, stakeholders can better understand the scope and potential of the AI system, facilitating more effective decision-making and resource allocation throughout its development and deployment lifecycle.
+
+Assessing the AI system's capabilities involves thoroughly evaluating its functional features, performance limitations, and data-related constraints. This includes identifying specific tasks, data types, and use cases that the AI system can effectively handle. Documenting these capabilities in a clear and concise manner ensures stakeholders have a structured understanding of the AI system's scope and limitations, facilitating informed decision-making and effective utilization throughout its lifecycle.
+
 #### Sub Practices
 
 1. Thoroughly assess the AI system's capabilities, including its functional features, performance limitations, and limitations due to data availability or quality.
@@ -17,6 +21,10 @@
 3. Document the AI system's capabilities in a clear and concise manner, using a structured format that facilitates understanding and traceability.
 
 ### Map 3.3.2. Establish Clear Application Context.
+
+To establish clear application context, it's essential to define the specific environment, stakeholders, and objectives surrounding the AI system's deployment. This includes identifying the intended users, their needs, and the real-world scenarios in which the AI system will operate. Additionally, understanding the regulatory, ethical, and societal considerations relevant to the application domain helps ensure alignment with broader organizational goals and values. Documenting this contextual information provides a foundation for effective decision-making, risk assessment, and communication throughout the AI system's development and deployment lifecycle.
+
+Defining the application context involves specifying the environment, users, and operational conditions where the AI system will operate. This entails considering factors like data constraints, network limitations, and evolving user behavior that may impact system performance. Documenting this context comprehensively ensures alignment with the AI system's capabilities and limitations, facilitating effective decision-making and risk assessment throughout development and deployment.
 
 #### Sub Practices
 
@@ -28,6 +36,10 @@
 
 ### Map 3.3.3. Classify AI System Based on Risk Level.
 
+Based on risk level, the AI system is classified to determine the appropriate level of scrutiny and control measures needed during development and deployment. This classification considers factors such as the potential impact of system errors or biases on users, stakeholders, and the broader society. By categorizing the AI system based on risk, stakeholders can prioritize resources and allocate efforts towards mitigating higher-risk scenarios while ensuring that appropriate safeguards are in place to address potential issues and uphold system trustworthiness.
+
+Assessing the potential risks, the AI system is categorized based on its capabilities, application context, and potential impact on individuals, organizations, and society. Utilizing established AI system categorization frameworks, the system is classified into appropriate risk tiers, with the risk classification and justification for the assigned tier being thoroughly documented.
+
 #### Sub Practices
 
 1. Assess the potential risks associated with the AI system based on its capabilities, application context, and potential impact on individuals, organizations, and society.
@@ -38,6 +50,10 @@
 
 ### Map 3.3.4. Specify Targeted Application Scope.
 
+Specify the targeted application scope by delineating the specific tasks, domains, and scenarios where the AI system will be deployed. Consider the system's capabilities, contextual factors, and risk classification to define the boundaries of its intended usage. Document the targeted application scope clearly and comprehensively to ensure alignment with organizational objectives and regulatory requirements.
+
+Defining the specific application scope involves outlining the boundaries within which the AI system will operate and the tasks it will perform, ensuring clarity and alignment with organizational objectives and contextual factors. This includes delineating between intended and unintended uses to prevent misuse or deployment in inappropriate contexts, ultimately documented to ensure coherence with the system's capabilities, risk assessment, and operating environment.
+
 #### Sub Practices
 
 1. Define the specific application scope of the AI system, outlining the boundaries within which the AI system will operate and the types of tasks it will be used for.
@@ -47,6 +63,10 @@
 3. Document the targeted application scope in a detailed manner, ensuring that it aligns with the AI system's capabilities, risk classification, and application context.
 
 ### Map 3.3.5. Continuously Evaluate and Adapt Scope.
+
+Continuously evaluating and adapting the application scope involves ongoing assessment of the AI system's performance, contextual changes, and evolving organizational needs. This practice ensures that the application scope remains relevant, effective, and aligned with the system's capabilities and objectives. By monitoring the system's performance, soliciting feedback from stakeholders, and staying abreast of technological advancements, organizations can proactively adjust the scope to maximize the system's value and mitigate potential risks.
+
+Continuously reviewing and evaluating the targeted application scope of the AI system involves regularly gathering feedback, assessing new information, and adapting the scope accordingly. This includes considering input from users, stakeholders, and regulators, ensuring that the scope remains relevant and aligned with the system's capabilities and risk profile. By maintaining a living document, organizations can document changes and ensure that the scope reflects the most current understanding of the system's capabilities and objectives.
 
 #### Sub Practices
 
