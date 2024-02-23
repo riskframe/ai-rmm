@@ -90,3 +90,13 @@ Promoting a culture of risk awareness and transparency is crucial for managing A
 
 3. Integrate risk management into organizational policies, procedures, and training programs to ensure ongoing risk awareness and accountability.
 
+### Manage 1.4: Suggested Work Products
+
+* Residual Risk Assessment Report - A report detailing the identified residual risks after implementing risk mitigation strategies, quantifying their potential impact and likelihood for downstream acquirers and end users.
+* Residual Risk Documentation for Downstream Acquirers - Comprehensive documentation outlining residual risks specifically tailored for downstream acquirers, including details about the nature, severity, and potential consequences of each residual risk.
+* Residual Risk Documentation for End Users - Documentation outlining residual risks specifically tailored for end users, providing clear information about potential hazards associated with AI systems, their likelihood, and potential impacts. 
+* Communication Channels Establishment Plan - A plan detailing the establishment of communication channels with downstream acquirers and end users to share information about residual risks, impacts, mitigation efforts, and updates.
+* Stakeholder Feedback Collection Mechanism - A mechanism for collecting feedback from downstream acquirers and end users regarding residual risks, risk management processes, and suggestions for improvement.
+* Residual Risk Dashboard - A dashboard displaying key metrics and indicators related to residual risks, providing stakeholders with a visual representation of risk status, trends, and areas needing attention.
+* Residual Risk Mitigation Plan - A plan detailing specific actions and strategies for further mitigating residual risks, including resource allocation, responsible parties, timelines, and expected outcomes.
+* Residual Risk Communication Materials - Materials such as user manuals, training materials, and privacy policies containing clear and concise information about residual risks for end users, facilitating understanding and informed decision-making.

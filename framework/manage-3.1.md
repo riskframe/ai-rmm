@@ -106,3 +106,12 @@ Integrating AI RMF practices into the organization's procurement processes invol
 
 3. Establish clear expectations for third-party providers to demonstrate compliance with AI RMF principles throughout the lifecycle of their services.
 
+### Manage 3.1: Suggested Work Products
+
+* Third-Party Resource Assessment Reports - Documentation detailing the assessment findings of third-party AI resources, including capabilities, reliability, and associated risks.
+* Formal Contracts with Third-party Providers - Legal agreements outlining expectations, responsibilities, and terms related to data usage, security, and compliance with third-party providers.
+* Monitoring and Auditing Reports - Reports documenting the results of ongoing monitoring and auditing activities on third-party AI resources, highlighting performance, security, and compliance aspects.
+* Data Governance and Privacy Controls Framework - A framework detailing policies, procedures, and controls for managing data exchanged with third-party AI providers, ensuring compliance with privacy regulations and organizational policies.
+* Risk Mitigation Strategies Documentation - Documentation outlining the strategies and controls implemented to address potential risks associated with third-party AI resources, including risk assessments and contingency plans.
+* Compliance Reports - Reports demonstrating compliance with AI risk management framework practices in third-party procurement processes, ensuring transparency, accountability, and adherence to organizational risk management objectives.
+* Continuous Improvement Plan - A plan outlining initiatives for continuously improving third-party risk management practices, including regular reviews, updates, and enhancements to policies, procedures, and controls.

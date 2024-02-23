@@ -102,3 +102,12 @@ Fostering a culture of responsible AI development and deployment involves priori
 
 3. Integrate these principles into organizational policies, procedures, and training programs to ensure a holistic approach to AI safety and accountability.
 
+### Manage 2.4: Suggested Work Products
+
+* Disengagement and Deactivation Framework Document - A comprehensive document outlining the procedures, criteria, and responsibilities for disengaging or deactivating AI systems that demonstrate inconsistent performance or outcomes.
+* Potential Disengagement Scenarios Analysis Report - A report detailing the identified potential scenarios necessitating the disengagement or deactivation of AI systems, along with the associated risks and mitigation strategies.
+* Clear Disengagement Criteria Document - Documentation outlining the specific conditions or thresholds that trigger the disengagement or deactivation of AI systems, ensuring transparency and consistency in decision-making.
+* Responsibility Assignment Matrix - A matrix specifying the roles and responsibilities of key stakeholders involved in the disengagement or deactivation process, ensuring accountability and clarity.
+* Disengagement Procedures Manual - A manual detailing the step-by-step procedures for promptly disengaging or deactivating AI systems, including notification protocols, documentation requirements, and coordination efforts.
+* Incident Response Simulation Exercises - Exercises simulating potential disengagement scenarios to test the effectiveness of response procedures and decision-making frameworks.
+* Continuous Improvement Plan - A plan outlining the steps and initiatives for continuously improving disengagement procedures, criteria, and readiness in response to evolving risks and technological advancements.
