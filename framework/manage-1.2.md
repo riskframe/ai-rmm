@@ -104,15 +104,12 @@ Promoting a culture of risk awareness and responsibility is paramount in effecti
 
 3. Integrate risk management principles into organizational policies, procedures, and training programs.
 
-### Manage 1.2: Work Products
+### Manage 1.2: Suggested Work Products
 
-1.	Risk Prioritization Matrix - A matrix outlining prioritized AI risks based on their impact and likelihood, providing a clear indication of which risks require immediate attention and allocation of resources.
-2.	Risk Categorization Report - A report categorizing and grouping similar AI risks based on shared characteristics or potential impacts, facilitating more efficient risk management and treatment strategies.
-3.	Resource Assessment and Allocation Plan - A plan assessing resource availability and constraints for addressing AI risks, along with strategies for allocating resources effectively to mitigate prioritized risks.
-4.	~Mitigation Strategy Portfolio - A portfolio detailing developed risk mitigation strategies for each prioritized AI risk, including action plans, responsible parties, and timelines for implementation.~
-5.	Risk Mitigation Implementation Tracker - A tracker monitoring the progress of implementing risk mitigation plans, including task completion status, resource utilization, and any encountered challenges.
-6.	Effectiveness Evaluation Dashboard - A dashboard displaying key performance indicators and feedback on the effectiveness of implemented risk mitigation measures, enabling organizations to assess the success of their risk management efforts.
-7.	~Risk Awareness Training Materials - Training materials and resources to educate stakeholders on risk identification, assessment, prioritization, and mitigation strategies, fostering a culture of risk awareness and responsibility.~
-8.	Risk Mitigation Communication Plan - A communication plan outlining channels and protocols for sharing updates on risk mitigation progress and addressing any emerging issues or concerns among stakeholders.
-9.	Lessons Learned Report - A report summarizing lessons learned from the monitoring and evaluation of risk mitigation effectiveness, providing insights for continuous improvement of risk management practices.
-10.	~Risk Mitigation Culture Promotion Campaign - A campaign aimed at promoting a culture of risk awareness and mitigation within the organization, emphasizing the importance of proactive risk identification and collective responsibility for managing AI risks.~
+* Risk Prioritization Matrix - A matrix outlining prioritized AI risks based on their impact and likelihood, providing a clear indication of which risks require immediate attention and allocation of resources.
+* Risk Categorization Report - A report categorizing and grouping similar AI risks based on shared characteristics or potential impacts, facilitating more efficient risk management and treatment strategies.
+* Resource Assessment and Allocation Plan - A plan assessing resource availability and constraints for addressing AI risks, along with strategies for allocating resources effectively to mitigate prioritized risks.
+* Risk Mitigation Implementation Tracker - A tracker monitoring the progress of implementing risk mitigation plans, including task completion status, resource utilization, and any encountered challenges.
+* Effectiveness Evaluation Dashboard - A dashboard displaying key performance indicators and feedback on the effectiveness of implemented risk mitigation measures, enabling organizations to assess the success of their risk management efforts.
+* Risk Mitigation Communication Plan - A communication plan outlining channels and protocols for sharing updates on risk mitigation progress and addressing any emerging issues or concerns among stakeholders.
+* Lessons Learned Report - A report summarizing lessons learned from the monitoring and evaluation of risk mitigation effectiveness, providing insights for continuous improvement of risk management practices.
