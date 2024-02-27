@@ -78,3 +78,14 @@ This practice involves regularly reviewing and updating the assessment as the AI
 
 3. Maintain a living document that reflects the dynamic nature of the AI system's impacts and serves as an ongoing resource for responsible AI development.
 
+### Map 5.1: Suggested Work Products
+
+* Impact Assessment Report - A comprehensive document that outlines the potential impacts of the AI system, both beneficial and harmful, categorized by likelihood and magnitude. This report should include detailed analysis and synthesis of expected use cases, past experiences with similar AI systems, public incident reports, and feedback from external stakeholders.
+* Stakeholder Feedback Compilation - A collection of feedback from various stakeholders not directly involved in the development or deployment of the AI system, including experts, users, and potential beneficiaries. This compilation provides diverse perspectives on the AI system's impacts.
+* Risk and Opportunity Register - A dynamic record that lists identified risks and opportunities associated with the AI system's deployment, based on historical data from similar contexts and insights gained from public incident reports.
+* Impact Likelihood and Magnitude Matrix - A matrix or table that visually represents the likelihood and magnitude of each identified impact, facilitating easy comprehension and discussion among stakeholders.
+* Incident Report Analysis Summary - A document summarizing key findings from the review of public incident reports and research findings related to AI systems, highlighting potential challenges and unintended consequences.
+* Continuous Monitoring Plan - A structured plan outlining the processes and schedules for regularly reviewing and updating the impact assessment, ensuring it remains relevant as the AI system and its context evolve.
+* Ethical Consideration Documentation - A document that specifically addresses the ethical dimensions of the AI system's potential impacts, considering social, economic, and environmental considerations.
+* Methodology and Tools Documentation - Detailed documentation of the methods and tools used to assess the likelihood and magnitude of impacts, including risk assessment frameworks or impact modeling techniques.
+* Stakeholder Engagement Report - A report detailing the process of gathering feedback from stakeholders, including the approach to soliciting diverse perspectives and how this feedback was integrated into the impact assessment.

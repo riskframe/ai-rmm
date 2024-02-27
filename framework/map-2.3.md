@@ -104,3 +104,14 @@ Continuously reviewing and updating documentation on scientific integrity and TE
 
 3. Maintain a living document that captures the continuous learning and improvement process related to scientific integrity and TEVV in AI development.
 
+### Map 2.3: Suggested Work Products
+
+* Scientific Integrity Framework Document - A comprehensive document outlining the organization's framework for ensuring scientific integrity throughout the AI development lifecycle, including guidelines for experimental design, data collection, and ethical considerations.
+* Data Quality and Representativeness Report - An assessment report detailing the procedures for data collection, curation, and validation, along with measures taken to address data biases and ensure representativeness.
+* System Trustworthiness Assessment - A thorough evaluation of the AI system's reliability, security, and ethical soundness, including metrics for accuracy, fairness, explainability, and robustness.
+* AI System Construct Validation Report - Documentation validating the AI system's construct, ensuring its alignment with intended purposes and objectives, including benchmark comparisons and validity assessments.
+* TEVV Documentation Package - Comprehensive documentation detailing the experimental design choices, data collection methods, evaluation criteria, trustworthiness assessments, and the reasoning behind these decisions.
+* Stakeholder Feedback and Review Summary - A summary of feedback from stakeholders and experts on the scientific integrity framework and TEVV considerations, including actions taken in response to feedback.
+* Regular Review and Update Logs - Logs and records of regular reviews and updates made to the scientific integrity framework and TEVV considerations, reflecting the continuous improvement process.
+* Ethics and Bias Mitigation Guidelines - Guidelines and protocols for identifying, preventing, and addressing ethical concerns and biases in AI development, including conflict of interest policies.
+* Transparency and Accountability Procedures - Procedures and methodologies for enhancing the transparency and accountability of AI development practices, including decision-making processes and model interpretability strategies.

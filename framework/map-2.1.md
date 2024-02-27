@@ -78,3 +78,14 @@ Integrating the selected AI techniques involves embedding them within the system
 
 3. Conduct simulations or prototypes to test the integration of AI components into the system and identify any potential issues or challenges.
 
+### Map 2.1: Suggested Work Products
+
+* AI System Use Case Documentation - Detailed descriptions of the specific tasks and use cases the AI system is intended to support, including target user groups and desired outcomes.
+* AI Techniques Evaluation Report - An assessment of various AI techniques and methods, such as classifiers, generative models, and recommenders, with evaluations on their suitability, benefits, and limitations for the defined tasks and use cases.
+* Technical Specifications Document - Comprehensive technical requirements, including data input/output formats, algorithm selection criteria, model architecture, and performance metrics.
+* System Design Integration Plan - A plan detailing how selected AI techniques will be integrated into the overall system architecture, addressing data compatibility, system interactions, and performance optimization.
+* Functional Requirements Specification - A document that outlines the functional requirements for each task and use case, ensuring alignment with the overall system requirements.
+* AI Component Design Document - Descriptions of the design choices for AI components, including data preprocessing steps, model training parameters, and hyperparameter optimization strategies.
+* AI System Performance Metrics - A set of defined performance metrics to evaluate the effectiveness and efficiency of the AI system in meeting its intended objectives.
+* Data Management Plan - Guidelines for data inputs, processing steps, and output formats for each AI component, ensuring data quality and compatibility.
+* Integration Testing Report - Results from simulations or prototypes testing the integration of AI components into the system, identifying and resolving potential issues or challenges.

@@ -76,3 +76,14 @@ This process on the AI system's knowledge limits involves regularly revising the
 
 3. Maintain a living document that reflects the current knowledge of the AI system's capabilities and the role of human oversight in ensuring responsible decision-making.
 
+### Map 2.2: Suggested Work Products
+
+* Knowledge Limits Analysis Report - Document detailing the AI system's understanding, processing capabilities, and identified knowledge limits, including potential sources of bias and data limitations.
+* Overriding Mechanism Manual - Detailed instructions and protocols for human operators on how to override or correct AI decisions, including the criteria for intervention and the steps to take when intervention is necessary.
+* System Architecture Design Document - A technical document that describes how the AI system's architecture integrates human oversight and overriding functionalities, including interface designs and communication protocols.
+* Training Material for Human Operators - Educational content and training modules designed to equip human operators with the knowledge and skills required to effectively monitor, interpret, and intervene in the AI system's operations.
+* Human-AI Interaction Logs - Structured records capturing all instances of human intervention, including the rationale for overriding AI decisions, to ensure accountability and facilitate auditing processes.
+* Continuous Improvement Plan - A strategic plan outlining the processes for regularly reviewing and updating the AI system's knowledge limits documentation, incorporating feedback from stakeholders and adapting to new insights.
+* Incident Response Plan - A detailed plan that specifies the steps to be taken by human operators in response to identified issues or anomalies in the AI system's performance, including escalation procedures for complex cases.
+* Human Oversight Feedback Loop Report - Periodic reports summarizing feedback from human operators on the AI system's performance, highlighting areas for improvement in both the AI system and the oversight mechanisms.
+* AI System Evolution Tracker - A dynamic document or digital tool designed to track changes and updates in the AI system's capabilities and knowledge limits over time, ensuring that all stakeholders have access to the most current information.

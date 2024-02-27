@@ -76,3 +76,13 @@ Regularly assessing the effectiveness of interdisciplinary collaboration practic
 
 3. Adapt collaboration strategies based on feedback and evolving needs throughout the AI lifecycle.
 
+### Map 1.2: Suggested Work Products
+
+* Diversity and Inclusion Policy - A formal document outlining the organization's commitment to fostering diversity and inclusivity within AI teams, including recruitment practices, training programs, and collaboration initiatives.
+* Interdisciplinary Team Roster - A detailed list of team members, their backgrounds, roles, and expertise, highlighting the interdisciplinary nature of the team and the diversity among its members.
+* Training Program Documentation - Records of training sessions focused on unconscious bias, inclusive practices, and interdisciplinary collaboration, including attendance sheets, training materials, and participant feedback.
+* Innovation Workshops Summary - Summaries and outcomes of regular brainstorming sessions and innovation workshops that encourage interdisciplinary idea exchange and collaborative problem-solving.
+* Feedback and Evaluation Reports - Compiled feedback from AI actors on the collaboration environment and practices, including suggestions for improvement, with periodic evaluation reports on the effectiveness of implemented strategies.
+* Cross-Training Program Schedule - A schedule and curriculum for cross-training programs designed to enhance interdisciplinary understanding and cooperation among team members from different fields.
+* Collaboration Success Stories - A collection of case studies or success stories that illustrate effective interdisciplinary collaboration, highlighting the challenges, solutions, and benefits encountered.
+* Continuous Improvement Plan - A dynamic document outlining plans and strategies for continuously evaluating and enhancing interdisciplinary collaboration, incorporating feedback loops and adaptation mechanisms.
