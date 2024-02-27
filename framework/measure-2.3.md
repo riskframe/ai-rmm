@@ -104,3 +104,14 @@ This practice involves regularly evaluating effectiveness, gathering stakeholder
 
 3. Maintain a living document that reflects the dynamic nature of the AI system's performance and assurance, ensuring it remains relevant and aligned with organizational objectives.
 
+### Measure 2.3: Suggested Work Products
+
+* Performance and Assurance Criteria Document - A comprehensive document detailing the clear and measurable criteria for evaluating the AI system's performance and assurance, including aspects such as accuracy, fairness, robustness, explainability, and security.
+* Deployment Setting Analysis Report - A report that characterizes the intended deployment settings of the AI system, outlining factors such as user demographics, data availability, and environmental conditions, along with the rationale for their selection.
+* Measurement Protocol Guidelines - A set of detailed guidelines that specify the procedures, tools, and techniques for collecting, analyzing, and interpreting data related to the AI system's performance or assurance criteria.
+* Quantitative Metrics Definition Document - A document that defines the specific metrics to be used for quantitative assessments of the AI system, ensuring they are relevant, reliable, and sensitive to changes in behavior.
+* Performance Testing Results Summary - A summary report of the performance or assurance testing conducted, including methodologies used, data collected, and preliminary findings.
+* Test Result Analysis and Interpretation Report - A detailed report analyzing and interpreting the test results, identifying patterns, trends, and potential areas for improvement, and drawing conclusions about the AI system's compliance with established criteria.
+* Performance or Assurance Demonstration Documentation - Comprehensive documentation that encapsulates the entire demonstration process, including the testing methodologies, data collected, analysis, and interpretations, along with any discrepancies or challenges encountered.
+* Stakeholder Feedback and Adaptation Log - A log or document that captures stakeholder feedback on the performance or assurance measures and documents the adaptations made to the measurement protocols and criteria based on this feedback.
+* Continuous Evaluation and Adaptation Plan - A dynamic document or plan that outlines the process for the regular evaluation and adaptation of performance or assurance measures, ensuring they remain effective and relevant over time.

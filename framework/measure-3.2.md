@@ -76,3 +76,11 @@ Educational initiatives play a crucial role in highlighting the unique challenge
 
 3. Integrate risk management considerations into organizational training programs and educational materials.
 
+### Measure 3.2: Suggested Work Products
+
+* Comprehensive documentation - Documentation acknowledging the limitations of current AI risk assessment methodologies, highlighting areas where traditional metrics fall short in capturing the dynamic nature of AI systems.
+* Summary reports - A set of reports from structured workshops and discussions with AI and domain experts, along with diverse stakeholders, aimed at uncovering hard-to-quantify AI risks.
+* Evaluation reports - A set of reports on the effectiveness of emerging risk assessment tools and methodologies tailored for AI systems, focusing on their ability to uncover elusive risks not captured by traditional methods.
+* White papers or research contributions - White papers developed through collaboration with research communities and standards bodies, aimed at advancing AI-specific risk assessment metrics and methodologies.
+* Case studies or best practice guides - A set of guides documenting the application and impact of innovative risk assessment tools in real-world AI deployments, showcasing their contribution to enhancing risk management efforts.
+* Policy documents or advocacy materials - A set of policies promoting the adoption of standardized risk assessment frameworks within the AI industry, aimed at harmonizing risk management practices across organizations.

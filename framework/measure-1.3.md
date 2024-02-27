@@ -88,3 +88,13 @@ This practice requires periodically assessing the efficacy of current methods an
 
 2. Seek feedback from participants on the assessment process and their perceived contribution to the overall assessment outcomes.
 
+### Measure 1.3: Suggested Work Products
+
+* Independent Expert Review Report - Documentation of assessments conducted by internal experts not involved in the development of the AI system, detailing their findings and recommendations.
+* External Assessor Engagement Plan - A comprehensive plan outlining the process for selecting, onboarding, and collaborating with external assessors, including criteria for their competence and impartiality.
+* User Experience Feedback Summary - A compiled report summarizing feedback, concerns, and suggestions collected from actual users of the AI system, highlighting areas for improvement.
+* Domain Expert Consultation Records - Detailed records of consultations with domain experts, capturing their insights on the AI system's relevance, effectiveness, and potential domain-specific impacts.
+* Community Engagement Report - A report detailing the process and outcomes of engaging with affected communities, including their feedback, concerns, and how these have been addressed in the AI system's assessment and updates.
+* Risk Tolerance Alignment Documentation - Documentation that outlines how the level of expert and stakeholder involvement in AI assessments is tailored based on the organization's risk tolerance and the AI system's risk profile.
+* Assessment Methodology Evolution Log - A log that tracks changes and adaptations made to the assessment methodology over time, including reasons for changes and the effectiveness of new approaches.
+* Stakeholder Feedback and Adaptation Record - A document that captures stakeholder feedback on the assessment process and documents how the assessment approach has been adapted in response to this feedback.
