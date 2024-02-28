@@ -76,3 +76,12 @@ Fostering a culture of trustworthiness in an organization centers around promoti
 
 3. Foster a culture of continuous improvement by openly discussing AI ethics challenges and seeking solutions to address them.
 
+### Govern 1.2: Suggested Work Products
+
+* Trustworthy AI Framework Document - A comprehensive guide that defines and documents the characteristics of trustworthy AI, including fairness, transparency, accountability, privacy, and security, along with specific criteria for each characteristic.
+* Trustworthy AI Policy Integration Plan - A strategic document outlining the process for integrating the characteristics of trustworthy AI into existing organizational policies, with clear guidelines on data handling, algorithmic decision-making, user rights, and oversight mechanisms.
+* AI Process Adaptation Guidelines - Detailed guidelines for embedding the characteristics of trustworthy AI into organizational processes, ensuring that every phase of the AI system lifecycle upholds ethical standards.
+* AI System Bias Mitigation Procedures - A set of procedures dedicated to identifying, evaluating, and mitigating potential bias and fairness issues in AI systems, including mechanisms for continuous monitoring and improvement.
+* Data Ethics and Privacy Procedures - Detailed procedures for the ethical management of data within AI systems, focusing on collection, storage, and usage practices that prioritize privacy and adhere to ethical principles.
+* AI Incident Handling Guidelines - Clear guidelines and procedures for addressing incidents related to bias, fairness, explainability, accountability, or reliability in AI systems, including response strategies and corrective actions.
+* Trustworthy AI Cultural Integration Plan - A plan to foster a culture of trustworthiness within the organization, promoting open dialogue on AI ethics, responsible practices, and collaborative problem-solving to address ethical challenges in AI initiatives.

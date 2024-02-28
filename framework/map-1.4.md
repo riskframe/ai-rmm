@@ -76,3 +76,14 @@ Integrating the assessment of business value into decision-making processes for 
 
 3. Use business value metrics to evaluate the success of AI systems and inform ongoing improvements.
 
+### Map 1.4: Suggested Work Products
+
+* Business Value Articulation Document - A comprehensive document detailing the specific contributions and benefits that AI systems offer, aligned with strategic objectives.
+* Benefit Quantification Report - A report quantifying anticipated business benefits of AI systems in terms of measurable metrics such as cost savings, revenue growth, or risk reduction.
+* Alignment Assessment - An analysis ensuring that the business value expectations of AI systems are aligned with the organization's mission, goals, and resources.
+* Use Case and Scenario Analysis - A thorough examination of specific use cases and scenarios where AI systems will be deployed, considering the operational context and potential impacts.
+* Operational Context Report - A detailed report on the operational context, including the target user base, technical infrastructure, and potential interactions with other systems.
+* Risk and Challenge Identification Document - A document identifying potential challenges or risks associated with the business context and how AI systems can address them.
+* AI System Performance Review Report - A periodic review report assessing the continued relevance, performance, and contribution of existing AI systems to the organization's business objectives.
+* Business Value Documentation - Comprehensive documentation outlining the business value of AI systems, the context of their use, and the analysis of their effectiveness, shared with relevant stakeholders.
+* Business Value Metrics Evaluation Guide - A guide using business value metrics to evaluate the success of AI systems and inform ongoing improvements, ensuring alignment with evolving business needs.

@@ -118,3 +118,13 @@ Soliciting feedback from a wide range of stakeholders, including developers, ope
 
 3. Stay informed about emerging safety risks and technological advancements in safety engineering to maintain the AI system's safety posture.
 
+### Measure 2.6: Suggested Work Products
+
+* Safety Risk Evaluation Framework Document - A comprehensive document outlining the framework for evaluating safety risks, including identification, assessment, and mitigation processes.
+* Safety Risk Register - A detailed log of identified safety risks categorized by severity, likelihood, and potential impact, including their current status and mitigation measures.
+* Residual Risk Acceptance Criteria - Documentation defining clear criteria for determining the acceptability of residual risks post-mitigation efforts.
+* Safety Metrics and Thresholds Report - A report specifying the quantitative and qualitative metrics used to evaluate the AI system's safety and the thresholds set for each metric.
+* Safety Risk Assessment Reports - Periodic reports from regular safety risk assessments throughout the AI system's lifecycle, documenting findings and recommendations.
+* Safety Risk Mitigation Plan - A strategic plan detailing prioritized safety risks and the specific mitigation strategies to be implemented, including timelines and responsible parties.
+* Safe Fail Mechanisms Design Document - Technical documentation on the design and implementation of safe fail mechanisms within the AI system, including test results confirming their effectiveness.
+* Safety Enhancement Review Report - An annual or bi-annual report summarizing the outcomes of the continuous evaluation and enhancement efforts for safety risk management practices, including stakeholder feedback and updates to safety measures.

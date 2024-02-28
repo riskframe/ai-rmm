@@ -76,3 +76,12 @@ Instilling a culture of security and risk management involves fostering awarenes
 
 3. Establish clear accountability and reporting mechanisms for addressing security incidents and ensuring compliance with internal security policies.
 
+### Map 4.2: Suggested Work Products
+
+* Risk Assessment Report for AI Components - Detailed analysis of potential vulnerabilities, weaknesses, and threats within each AI component, including third-party technologies, with an evaluation of their potential impact on system security, reliability, and performance.
+* Internal Risk Control Strategy Document - A comprehensive document outlining specific risk control measures designed to mitigate identified risks, including security protocols, data governance frameworks, and monitoring systems.
+* Security Controls Implementation Guide - Detailed descriptions of implemented security controls such as access controls, encryption, and anomaly detection, including guidelines for their application to protect data and systems from unauthorized access.
+* System Development Lifecycle Integration Plan - A plan detailing how internal risk control measures are integrated into the AI system's development lifecycle, from design through deployment, ensuring risk management is an inherent aspect of system development.
+* Security Assessment and Penetration Testing Reports - Regular reports from security assessments and penetration tests aimed at identifying and addressing vulnerabilities within the AI system before they can be exploited.
+* Risk Control Effectiveness Evaluation Report - Documentation assessing the effectiveness of internal risk controls, highlighting any gaps or areas for improvement, and suggesting updates to ensure the strategy remains robust against evolving threats.
+* Internal Risk Control Documentation and Audit Trails - Comprehensive documentation outlining the implementation of internal risk controls, their rationale, and ongoing evaluation processes, along with audit trails tracking their effectiveness.

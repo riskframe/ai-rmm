@@ -92,3 +92,13 @@ Regularly conducting risk assessments is crucial in identifying and evaluating p
 
 3. Implement mitigation strategies to address identified risks and protect the organization's IP interests.
 
+### Govern 6.1: Suggested Work Products
+
+* Collaboration Policy Document - A document that outlines the principles, expectations, and guidelines for engaging with third-party entities in AI projects, including IP considerations.
+* Due Diligence Report Template - A template for evaluating potential third-party partners, focusing on their compliance, reputation, and capabilities related to AI projects.
+* Standard Contractual Clauses - A set of documents specific to AI collaborations, covering IP rights, data usage, confidentiality, and dispute resolution.
+* IP Asset Management Plan - A plan detailing the procedures for identifying, cataloging, and managing IP assets, including registration, usage tracking, and licensing arrangements.
+* IP Issue Resolution Procedure - A document that outlines the steps to be taken in case of suspected IP infringement or disputes with third-party collaborators.
+* Third-Party Collaboration Agreement - Templates designed to clearly define the roles, responsibilities, and expectations of all parties involved in AI projects.
+* Compliance Checklist for Third-Party AI - Collaborations to ensure all engagements are in line with established policies, legal requirements, and ethical standards.
+* Incident Response Plan for IP Concerns - A document that provides a clear, step-by-step guide for responding to and resolving IP-related incidents in third-party collaborations.

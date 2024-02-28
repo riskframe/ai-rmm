@@ -90,3 +90,12 @@ Ensuring risk management is a core component of the AI governance framework is c
 
 3. Promote continuous learning and improvement in AI risk management practices through feedback loops and lessons learned.
 
+### Govern 1.4: Suggested Work Products
+
+* AI Risk Management Policy Document - A comprehensive policy document that outlines the organization's approach to managing AI-related risks, incorporating principles of fairness, explainability, accountability, reliability, and security, and aligning with the overall risk management framework of the organization.
+* Risk Management Procedures Manual - A detailed manual that specifies structured procedures for identifying, assessing, mitigating, and monitoring risks throughout the AI lifecycle, ensuring consistency and effectiveness in risk management activities.
+* Risk Control Catalogue - A catalogue of technical, administrative, and organizational controls tailored to mitigate specific AI-related risks, including data governance protocols, audit trails, and access control mechanisms, along with guidelines for their implementation and monitoring.
+* Risk Management Communication Plan - A document that outlines protocols for communicating risk-related information within the organization, detailing the methods, channels, and timing for dissemination, as well as escalation procedures for potential risk events.
+* AI Risk Management Audit Reports - Regularly produced audit reports that provide an independent assessment of the effectiveness of the AI risk management framework, highlighting strengths, identifying areas for improvement, and suggesting actionable insights.
+* AI Governance and Risk Management Accountability Chart - A chart or matrix that establishes clear lines of authority and accountability for AI risk management within the AI governance structure, clarifying roles and responsibilities across different levels of the organization.
+* Continuous Improvement and Feedback Mechanism Documentation - Documentation that establishes mechanisms for continuous learning and improvement in AI risk management practices, including feedback loops, review processes, and integration of lessons learned into the governance framework to adapt to evolving AI risks.

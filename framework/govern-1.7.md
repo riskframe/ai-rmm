@@ -104,3 +104,12 @@ Continuously monitoring the decommissioning process is crucial to ensure adheren
 
 3. Evaluate the effectiveness of decommissioning processes and make improvements as needed.
 
+### Govern 1.7: Suggested Work Products
+
+* AI Decommissioning Policy - A formal document that outlines the organization's approach to safely and responsibly decommissioning or phasing out AI systems, including criteria for decision-making and procedural steps.
+* AI Systems Decommissioning Plan - Detailed plans for each AI system identified for decommissioning, outlining steps for data migration, system shutdown, stakeholder communication, and security measures.
+* Data Migration and Archiving Strategy - A comprehensive strategy for transferring valuable data from decommissioned AI systems to secure storage and archiving essential information for future use or compliance.
+* Stakeholder Communication Plan - A plan that outlines how and when stakeholders will be informed about the decommissioning process, ensuring transparency and maintaining trust throughout the transition.
+* Decommissioning Checklist - A comprehensive checklist that ensures all necessary steps are taken during the decommissioning process, from initial assessment to final system shutdown and documentation.
+* Post-Decommissioning Review Report - A report summarizing the decommissioning process, lessons learned, and recommendations for future decommissioning projects, contributing to continuous improvement in decommissioning practices.
+* Risk Assessment Report for Decommissioning - A report that assesses potential risks associated with decommissioning specific AI systems, guiding the development of mitigation strategies.

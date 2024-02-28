@@ -74,3 +74,14 @@ The process of incorporating risk tolerances into the AI development process inv
 
 2. Use risk tolerances to guide decision-making throughout the AI lifecycle, from project prioritization to system deployment and operation.
 
+### Map 1.5: Suggested Work Products
+
+* Risk Tolerance Framework Document - A comprehensive document that outlines the organizational framework for defining, classifying, and managing risk tolerances, specifically tailored for AI development and deployment.
+* Risk Identification and Assessment Report - A detailed report identifying the types of risks relevant to AI, including technical, ethical, legal, and social risks, and assessing their potential impact on the organization.
+* Risk Tolerance Justification Document - A document providing justifications for established risk tolerances, explaining the rationale behind each acceptable level of risk and how it aligns with organizational objectives.
+* Stakeholder Engagement Record - Documentation of the involvement and contributions of a cross-functional team of stakeholders in the risk tolerance definition process, including their perspectives and concerns.
+* Risk Management Review Schedule - A schedule for regular reviews and updates of risk tolerances, ensuring they remain relevant and effective in light of evolving business needs, technological advancements, and societal changes.
+* AI Development Process Integration Plan - A plan detailing how risk tolerances will be integrated into each stage of the AI development process, from requirements gathering to deployment, to ensure compliance with established risk parameters.
+* Risk Mitigation Strategies for AI Projects - A set of strategies and practices for mitigating identified risks within AI projects, ensuring they align with the defined risk tolerances and contribute to the robustness and reliability of AI systems.
+* Risk Tolerance Communication Plan - A plan for effectively communicating risk tolerances and their justifications to all relevant stakeholders, ensuring transparency and alignment within the organization.
+* AI Ethics and Compliance Checklist - A checklist incorporating risk tolerances related to ethical, legal, and social considerations in AI, to be used during the development and deployment of AI systems to ensure ethical compliance and social responsibility.

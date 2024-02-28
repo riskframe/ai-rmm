@@ -68,3 +68,9 @@ It is important to offer an environment of open dialogue and knowledge-sharing a
 
 2. Promote a culture of continuous learning by providing access to online resources, webinars, and professional development opportunities related to AI risk management.
 
+### Govern 2.2: Suggested Work Products
+
+* Training Attendance Records - Documentation of attendance for all AI risk management training sessions, including refresher courses, to ensure personnel and partners are participating as required.
+* Training Effectiveness Assessments - Reports or surveys that assess the effectiveness of the AI risk management training programs, including participant feedback and performance metrics.
+* AI Risk Management Policy Integration Documents - Documentation that demonstrates how AI risk management training is integrated with organizational policies, procedures, and agreements.
+* AI Risk Management Competency Certificates - Certificates or credentials awarded to individuals upon successful completion of AI risk management training, demonstrating their proficiency in the subject.

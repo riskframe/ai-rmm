@@ -93,3 +93,13 @@ Implementing a structured methodology for consistently evaluating and revising k
 
 3. Maintain a centralized repository to document all mapping information and ensure accessibility for relevant stakeholders.
 
+### Map 1.1: Suggested Work Products
+
+* AI Purpose and Benefit Documentation - A comprehensive document that outlines the intended purposes, beneficial uses, and expected positive impacts of the AI system on users, communities, organizations, society, and the planet.
+* Legal and Ethical Compliance Report - A detailed analysis that covers the legal, regulatory, ethical, and social norms relevant to the AI system's intended use, including an assessment of data protection frameworks, industry regulations, and ethical considerations such as fairness and privacy.
+* Deployment Setting Analysis - A document that defines the specific environments and settings where the AI system will be deployed, considering factors such as industry, sector, geographic locations, technical infrastructure, and anticipated user base.
+* User Expectation and Impact Study - A comprehensive study or set of user research findings that detail the expectations, needs, concerns, and potential positive and negative impacts of the AI system on its target users and other stakeholders.
+* Assumptions and Limitations Register - A register or detailed documentation of the assumptions made during the AI system's design and development, its limitations, and the strategies for Test, Evaluation, Verification, and Validation (TEVV) to ensure reliability and compliance with requirements.
+* Stakeholder Engagement Plan - A plan that outlines strategies for engaging diverse stakeholders, including users, to gather insights, preferences, and apprehensions, ensuring the AI system aligns with user needs and societal expectations.
+* Ethical Impact Assessment - An assessment that evaluates the potential ethical implications, unintended consequences, and societal impacts of the AI system, aiming to mitigate risks and ensure responsible development.
+* System Metrics and Success Criteria - A set of defined metrics and criteria to measure the effectiveness, performance, and impact of the AI system, ensuring it meets its intended purposes and beneficial uses.

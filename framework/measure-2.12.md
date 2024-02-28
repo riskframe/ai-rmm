@@ -90,3 +90,12 @@ Education and training for AI professionals on environmental impact assessment m
 
 3. Integrate environmental sustainability considerations into organizational policies, procedures, and governance frameworks.
 
+### Measure 2.12: Suggested Work Products
+
+* Environmental Impact Assessment Report - Document detailing the environmental impact of AI model training and management activities, including energy consumption, resource utilization, and greenhouse gas emissions.
+* Sustainability Policy Document - A formal document outlining the organization's commitment to environmental sustainability in AI practices, including goals, strategies, and responsible practices.
+* Mitigation Strategy Plan - A comprehensive plan detailing the strategies and actions for mitigating the environmental impact of AI systems, including the use of energy-efficient algorithms and cloud-based computing.
+* Data Optimization Guidelines - Documentation of best practices and techniques for optimizing data management to reduce storage requirements and energy consumption.
+* Stakeholder Communication Plan - A plan for disseminating environmental impact reports and sustainability practices to stakeholders, including users, regulators, and oversight bodies, to promote transparency and responsible AI practices.
+* Continuous Improvement Process Document - Documentation of the process for the continuous evaluation and adaptation of environmental mitigation strategies, including feedback mechanisms from stakeholders.
+* Green AI Innovation Report - A report highlighting advancements and innovations in energy-efficient algorithms and sustainable AI technologies adopted by the organization.

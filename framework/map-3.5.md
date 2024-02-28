@@ -76,3 +76,13 @@ This practice involves gathering feedback from human operators, stakeholders, an
 
 3. Adapt oversight procedures, training programs, and system architecture as needed to maintain a robust human oversight framework.
 
+### Map 3.5: Suggested Work Products
+
+* Human Oversight Roles and Responsibilities Matrix - A comprehensive document that outlines the specific duties, authorities, and expectations for each role involved in overseeing AI systems, ensuring alignment with organizational policies.
+* Oversight Procedures Manual - Detailed documentation of all procedures related to human oversight activities, including data monitoring protocols, system auditing guidelines, and the review process for AI outputs.
+* System Architecture Design Specifications - Documentation that describes how human oversight mechanisms are integrated into the AI system's architecture, detailing interfaces, alerts, and control mechanisms for real-time human interaction.
+* Oversight Activity Logs - Structured logs that record all human oversight activities, including interventions, decisions made, and rationales, to facilitate auditing and accountability.
+* Continuous Improvement Report - Regularly updated reports that evaluate the effectiveness of oversight mechanisms, incorporating feedback from operators and stakeholders, and outlining adaptations to procedures and training.
+* Oversight Triggers Documentation - A detailed list of conditions or anomalies that would trigger human intervention, including thresholds for action and the expected response protocols.
+* Oversight Tools and Technologies Catalog - An inventory of tools, software, and technologies available to human operators for monitoring, analyzing, and intervening in AI system operations.
+* Stakeholder Feedback Summary - A compilation of feedback from various stakeholders, including operators, regulatory bodies, and end-users, regarding the effectiveness and responsiveness of the human oversight framework.

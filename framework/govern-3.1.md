@@ -78,3 +78,13 @@ Incorporating diverse perspectives in developing risk mitigation strategies enha
 
 3. Leverage diverse perspectives to identify creative and effective risk mitigation strategies that address the underlying issues.
 
+### Govern 3.1: Suggested Work Products
+
+* Diversity and Inclusion Policy - A comprehensive document outlining the organization's commitment to diversity, equity, inclusion, and accessibility within AI risk management teams, including strategies for fostering an inclusive culture.
+* Diverse Team Composition Report - A report detailing the demographics, disciplines, experiences, expertise, and backgrounds of members within the AI risk management team, highlighting efforts to maintain diversity.
+* Risk Identification Workshops Summary - A summary of workshops or brainstorming sessions that leverage the diverse perspectives of team members to identify a broad range of AI risks, including insights into assumptions challenged and new risks uncovered.
+* Risk Assessment Methodology Documentation - Documentation of the risk assessment methodologies and tools employed, showcasing how diverse perspectives were integrated to ensure a comprehensive evaluation of AI risks.
+* Recruitment and Training Strategy - A strategy document outlining the approach to recruiting team members from diverse demographics and disciplines, and providing them with necessary training to effectively contribute to AI risk management.
+* Team Collaboration and Communication Guidelines - Guidelines designed to foster open, inclusive, and respectful communication within the AI risk management team, ensuring all members feel comfortable contributing their perspectives.
+* Innovation and Creativity Report - A report highlighting how diverse perspectives within the team have led to innovative approaches to identifying, assessing, and mitigating AI risks, including case studies or examples.
+* Continuous Improvement Plan - A plan detailing ongoing efforts to enhance diversity and inclusion within the AI risk management team, including metrics for measuring progress and strategies for addressing areas of improvement.

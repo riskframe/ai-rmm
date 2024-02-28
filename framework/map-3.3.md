@@ -76,3 +76,14 @@ Continuously reviewing and evaluating the targeted application scope of the AI s
 
 3. Maintain a living document that reflects the evolving targeted application scope and serves as a reference for ongoing AI development and deployment decisions.
 
+### Map 3.3: Suggested Work Products
+
+* AI System Capability Assessment Report - Document detailing the AI system's functional features, performance limitations, and data constraints, including an evaluation of its strengths and weaknesses in handling specific tasks and data types.
+* AI System Risk Classification Report - A document categorizing the AI system based on its risk level, considering its potential impact on users, stakeholders, and society, with a justification for the assigned risk tier.
+* Targeted Application Scope Statement - A clear and detailed declaration of the specific tasks, domains, and scenarios where the AI system is intended to be deployed, including boundaries for its use and delineation between intended and unintended uses.
+* Use Case Specifications - Detailed descriptions of the specific use cases the AI system is designed to address, including the data types it will process and the operational conditions under which it is expected to perform.
+* Stakeholder Feedback Compilation - A collection of insights and feedback from users, stakeholders, and regulators regarding the AI system's performance and application scope, used to inform continuous scope adaptation.
+* Performance Monitoring Reports - Regular reports on the AI system's operational performance, highlighting any deviations from expected outcomes and potential areas for scope adjustment.
+* Regulatory Compliance Documentation - Documents ensuring that the AI system's application scope and deployment practices comply with relevant legal, ethical, and regulatory standards.
+* Scope Adaptation Logs - A chronological record of changes made to the AI system's targeted application scope, including reasons for adjustments and their impact on system performance and risk profile.
+* Technology Watch Reports - Periodic reviews of emerging technologies and industry trends that could influence the AI system's capabilities, application scope, or risk classification, guiding proactive adaptations.

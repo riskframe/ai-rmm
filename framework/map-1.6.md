@@ -76,3 +76,13 @@ Regularly reviewing and updating system requirements ensures that they remain re
 
 3. Maintain a living document that reflects the evolving requirements and design decisions throughout the AI lifecycle.
 
+### Map 1.6: Suggested Work Products
+
+* Stakeholder Engagement Report - Documenting the process and outcomes of engaging diverse AI actors, including their contributions and concerns related to system requirements.
+* System Requirements Specification - A detailed document outlining all elicited system requirements, including functional, ethical, and regulatory considerations, structured for clarity and traceability.
+* Design Decision Log - A record of key design decisions made, including the socio-technical considerations that influenced these decisions and the trade-offs considered.
+* Risk Assessment Report - An analysis of potential AI risks identified during the design phase, along with the mitigation strategies integrated into the design decisions.
+* Bias and Fairness Audit - Documentation of efforts to identify and address potential biases and fairness issues, including the methodologies used and the outcomes of these efforts.
+* Privacy and Security Plan - A detailed strategy outlining the safeguards implemented to protect user data and ensure the privacy and security of the AI system.
+* Continuous Improvement Plan - A dynamic document detailing the process for regularly reviewing and updating system requirements, incorporating stakeholder feedback, and adapting to changes.
+* Design Trade-off Analysis - Documentation of the various design trade-offs made, explaining the rationale behind each decision and how it balances functionality, ethical considerations, and risk mitigation.

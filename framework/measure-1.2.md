@@ -76,3 +76,15 @@ This practice requires fostering a culture of ongoing improvement, gathering fee
 
 3. Adapt measurement processes, metrics, and control mechanisms based on the evaluation findings and evolving AI system landscape.
 
+### Measure 1.2: Suggested Work Products
+
+* AI Risk Assessment Report - A comprehensive document outlining the current AI risks, the relevance of the measurement approaches to these risks, and the effectiveness of existing controls in mitigating these risks.
+* Stakeholder Feedback Compilation - A collection of feedback from various stakeholders on the effectiveness of the AI system's measurement approaches and controls, highlighting areas for improvement.
+* Error and Incident Analysis Report - A detailed analysis of reported errors, biases, or unintended consequences, including patterns, trends, and impacts on affected communities.
+* Control Effectiveness Review Document - An evaluation report on the performance of existing controls, highlighting their effectiveness in addressing identified risks and suggesting enhancements.
+* Measurement Approach Evaluation Summary - A summary document that reviews the alignment of current measurement approaches with evolving AI risks and stakeholder needs, suggesting necessary adjustments.
+* Continuous Improvement Plan - A strategic plan outlining the steps for continuous improvement in measurement and control strategies based on stakeholder feedback, error analysis, and control effectiveness reviews.
+* Risk Management Integration Report - A report detailing how evaluation findings from measurement and control assessments have been integrated into the organization's risk management strategies.
+* AI Metrics Evolution Document - A document that tracks the evolution of AI metrics over time, reflecting changes in AI technology, emerging risks, and stakeholder requirements.
+* Community Impact Assessment Report - An in-depth analysis of how errors and biases in the AI system have impacted affected communities, including recommendations for mitigating negative impacts.
+* Control Strategy Enhancement Proposal - A proposal document suggesting enhancements to existing control strategies based on the latest evaluations, aimed at better mitigating AI-related risks and improving system trustworthiness.

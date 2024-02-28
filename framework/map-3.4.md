@@ -76,3 +76,13 @@ Regularly reviewing and evaluating proficiency requirements, standards, and cert
 
 3. Adapt training programs, certification processes, and proficiency requirements as needed to maintain a high level of operator and practitioner competence.
 
+### Map 3.4: Suggested Work Products
+
+* Proficiency Requirements Document - A detailed outline of the skills, knowledge, and competencies required for operators and practitioners to effectively manage AI system performance and trustworthiness.
+* Technical Standards and Certifications Guide - A comprehensive list of relevant technical standards, guidelines, and certifications that assess the competency of AI operators and practitioners, including their applicability to the organization's AI systems.
+* Certification Process Manual - A document detailing the certification process for AI operators and practitioners, including assessment criteria, evaluation methods, and procedures for certification renewal.
+* Training Evaluation Reports - Regular reports assessing the effectiveness of training programs in enhancing operator and practitioner proficiency, including participant feedback and recommendations for improvement.
+* Proficiency Standards Review Logs - Chronological logs documenting the dates and outcomes of regular reviews and updates to proficiency requirements, training programs, and certification processes.
+* Industry Benchmarking Analysis - A report comparing the organization's proficiency requirements, training programs, and certification processes against industry benchmarks and best practices.
+* Stakeholder Feedback Compilation - A collection of feedback from AI operators, practitioners, and other relevant stakeholders regarding the proficiency requirements, training programs, and certification processes.
+* Regulatory Compliance Documentation - Documents ensuring that the proficiency requirements, training programs, and certification processes comply with relevant legal, ethical, and regulatory standards.

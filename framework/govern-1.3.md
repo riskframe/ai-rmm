@@ -90,3 +90,13 @@ Regularly monitoring AI systems for new and evolving risks, coupled with frequen
 
 3. Incorporate lessons learned from risk management activities into the organization's overall AI governance framework.
 
+### Govern 1.3: Suggested Work Products
+
+* Organizational Risk Tolerance Framework Document - A comprehensive document that outlines the organization's risk tolerance levels, including specific thresholds, criteria, and decision-making guidelines tailored to AI-related activities and projects.
+* AI Risk Tolerance Matrix - A structured tool that maps out various AI-related risks against the organization's risk tolerance levels, providing clear guidance on risk acceptance, mitigation, or transfer strategies.
+* AI Risk Assessment Template - A standardized template for conducting and documenting AI risk assessments, designed to ensure consistency and thoroughness in identifying, analyzing, and evaluating AI-related risks.
+* AI Risk Register - A dynamic document that records identified AI risks, their assessed impact and likelihood, mitigation actions, and responsible parties, serving as a central repository for monitoring and managing AI risks.
+* AI Risk Mitigation Plan - A detailed plan outlining specific strategies and actions to address prioritized AI risks, including timelines, responsible individuals or teams, and expected outcomes.
+* AI Risk Management Policy - A formal policy that defines the principles, responsibilities, and processes for managing AI-related risks within the organization, ensuring alignment with the overall risk management framework.
+* Risk Management Governance Charter - A document that establishes the governance structure for AI risk management, detailing the roles, responsibilities, and authority of various stakeholders, including a cross-functional risk management team.
+* Risk Management Review and Update Procedure - A documented procedure for regularly reviewing and updating the risk management framework, practices, and tools in response to new insights, technological advancements, and changes in the organization's risk appetite.

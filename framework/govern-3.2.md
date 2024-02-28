@@ -76,3 +76,12 @@ Periodically conducting audits is crucial for evaluating compliance with policie
 
 3. Implement corrective actions to ensure ongoing compliance and maintain a robust framework for human-AI interactions.
 
+### Govern 3.2: Suggested Work Products
+
+* Roles and Responsibilities Framework Document - A comprehensive document that outlines the roles, responsibilities, and accountability structures for individuals involved in human-AI configurations and AI system oversight, ensuring clarity and promoting effective collaboration.
+* RACI Matrix - A detailed RACI (Responsible, Accountable, Consulted, Informed) matrix that documents and visually represents the roles and responsibilities of all parties involved in AI configurations and oversight, enhancing transparency and accountability.
+* Policies and Procedures Manual - A manual that contains all policies and procedures related to human-AI configurations and oversight, including clear guidelines on authorization levels, escalation protocols, and task execution, ensuring consistency and alignment across the organization.
+* Review and Update Process Documentation - Documentation of the established process for regularly reviewing and updating policies and procedures concerning human-AI configurations and oversight, ensuring they remain relevant and effective over time.
+* Audit and Compliance Reports - Periodic audit and compliance reports that assess adherence to established policies and procedures related to human-AI configurations and oversight, identifying gaps and areas for improvement.
+* Corrective Action Plans - Detailed plans outlining corrective actions to be taken based on findings from audits and compliance checks, aimed at ensuring ongoing compliance and enhancing the human-AI interaction framework.
+* Feedback and Improvement Log - A log or database that captures feedback from personnel involved in human-AI configurations and oversight, used to inform the continual improvement of policies, procedures, and practices.
