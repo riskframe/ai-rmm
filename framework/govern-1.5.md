@@ -90,3 +90,10 @@ Incorporating monitoring and review activities into the regular workflows of tea
 
 3. Establish a feedback loop to incorporate insights from monitoring and review activities into the continuous improvement of AI risk management practices.
 
+### Govern 1.5: Suggested Work Products
+
+* AI Risk Management Monitoring Plan - A comprehensive document that outlines the scope, objectives, and frequency of the AI risk management monitoring activities, ensuring all critical AI systems, processes, and data are under continuous observation.
+* Roles and Responsibilities Charter - A document that clearly assigns and describes roles and responsibilities for individuals and teams involved in AI risk management, ensuring accountability and effective coordination across the organization.
+* Monitoring and Review Procedures Manual - A detailed manual that documents the procedures for ongoing monitoring and periodic review of AI systems, including methodologies, tools, schedules, and reporting formats.
+* AI Ethics and Compliance Checklist - A checklist used during monitoring activities to ensure AI systems adhere to ethical standards and regulatory requirements, focusing on areas such as data privacy, bias prevention, and transparency.
+* Continuous Improvement Log - A structured log or database that captures insights, feedback, and lessons learned from monitoring and review activities, facilitating the continuous refinement and enhancement of AI risk management practices.

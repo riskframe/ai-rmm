@@ -90,3 +90,13 @@ Regularly reviewing and updating the AI risk management framework, including the
 
 3. Adapt risk management practices to address emerging AI technologies and evolving risk landscapes.
 
+### Govern 1.6: Suggested Work Products
+
+* AI Systems Inventory Report - A comprehensive document detailing all AI systems within the organization, including their purpose, capabilities, data sources, and integration points. This report should be regularly updated to reflect the current AI landscape of the organization.
+* Risk Categorization Matrix - A tool or document that assigns risk scores to AI systems and categorizes them into different risk levels (e.g., high, medium, low), facilitating prioritization for further action.
+* Resource Allocation Plan - A strategic document outlining how resources (funding, personnel, technology) are to be allocated based on the risk levels of AI systems, ensuring that higher-risk areas receive the necessary focus.
+* Risk-Based Staffing Model - A plan or framework that aligns staffing requirements with the risk profiles of AI systems, detailing the necessary skills, competencies, and staffing levels required to manage and mitigate these risks effectively.
+* AI Risk Management Policy - A comprehensive policy document that integrates AI risk management practices with the organization's broader risk management framework and business objectives, ensuring alignment and coherence.
+* Continuous Improvement Process Document - A document outlining the procedures for the regular review and refinement of AI risk management processes, including mechanisms for incorporating feedback and lessons learned.
+* Stakeholder Engagement Plan - A plan detailing how relevant stakeholders (internal and external) will be engaged and informed about AI risk management practices, ensuring transparency and collaboration.
+* AI Governance Charter - A formal document establishing the governance structure for AI risk management, defining roles, responsibilities, and communication channels between different departments and stakeholders involved in AI initiatives.

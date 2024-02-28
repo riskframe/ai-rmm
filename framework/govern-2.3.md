@@ -76,3 +76,11 @@ Establishing a structured reporting mechanism for AI risk management, ensures th
 
 3. Use risk reports to inform decision-making processes and drive continuous improvement in AI risk management.
 
+### Govern 2.3: Suggested Work Products
+
+* Charter document - A document for the AI Risk Management Leadership Council, outlining its objectives, members, roles, and operating procedures.
+* Comprehensive AI risk management policy - A document detailing the approach to identifying, assessing, and mitigating AI risks, including roles and responsibilities.
+* Strategic integration plan - A plan showing how AI risk management is incorporated into the organization's strategic planning processes, with examples of risk considerations in strategic decisions.
+* AI risk management approval process guidelines - A set of documents specifying criteria for risk acceptance, escalation procedures, and roles in the decision-making process.
+* Risk management reporting templates and schedules - A set of templates designed to ensure consistent and effective communication of AI risk assessments and mitigation efforts to stakeholders.
+* AI ethics and compliance guidelines - A set of guidelines integrating considerations of data privacy, algorithmic fairness, and regulatory compliance into AI risk management practices.
