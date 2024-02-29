@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Govern 2.2: The organization’s personnel and partners receive AI risk management training to enable them to perform their duties and responsibilities consistent with related policies, procedures, and agreements.
+## Govern 2.2
+> The organization’s personnel and partners receive AI risk management training to enable them to perform their duties and responsibilities consistent with related policies, procedures, and agreements. [@playbook]
 
 ### Govern 2.2.1. Develop and Implement a Comprehensive AI Risk Management Training Program.
 
@@ -68,7 +69,7 @@ It is important to offer an environment of open dialogue and knowledge-sharing a
 
 2. Promote a culture of continuous learning by providing access to online resources, webinars, and professional development opportunities related to AI risk management.
 
-### Govern 2.2: Suggested Work Products
+### Govern 2.2 Suggested Work Products
 
 * Training Attendance Records - Documentation of attendance for all AI risk management training sessions, including refresher courses, to ensure personnel and partners are participating as required.
 * Training Effectiveness Assessments - Reports or surveys that assess the effectiveness of the AI risk management training programs, including participant feedback and performance metrics.

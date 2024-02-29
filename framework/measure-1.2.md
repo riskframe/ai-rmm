@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Measure 1.2: Appropriateness of AI metrics and effectiveness of existing controls are regularly assessed and updated, including reports of errors and potential impacts on affected communities.
+## Measure 1.2
+> Appropriateness of AI metrics and effectiveness of existing controls are regularly assessed and updated, including reports of errors and potential impacts on affected communities. [@playbook]
 
 ### Measure 1.2.1. Regularly Evaluate Measurement Approach Relevance.
 
@@ -76,7 +77,7 @@ This practice requires fostering a culture of ongoing improvement, gathering fee
 
 3. Adapt measurement processes, metrics, and control mechanisms based on the evaluation findings and evolving AI system landscape.
 
-### Measure 1.2: Suggested Work Products
+### Measure 1.2 Suggested Work Products
 
 * AI Risk Assessment Report - A comprehensive document outlining the current AI risks, the relevance of the measurement approaches to these risks, and the effectiveness of existing controls in mitigating these risks.
 * Stakeholder Feedback Compilation - A collection of feedback from various stakeholders on the effectiveness of the AI system's measurement approaches and controls, highlighting areas for improvement.

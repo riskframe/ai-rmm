@@ -4,9 +4,11 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-# Govern 4: Organizational teams are committed to a culture that considers and communicates AI risk.
+# Govern 4
+> Organizational teams are committed to a culture that considers and communicates AI risk. [@airmf]
 
-## Govern 4.1: Organizational policies and practices are in place to foster a critical thinking and safety-first mindset in the design, development, deployment, and uses of AI systems to minimize potential negative impacts.
+## Govern 4.1
+> Organizational policies and practices are in place to foster a critical thinking and safety-first mindset in the design, development, deployment, and uses of AI systems to minimize potential negative impacts. [@playbook]
 
 ### Govern 4.1.1. Cultivate a Culture of Critical Thinking and Safety.
 
@@ -78,7 +80,7 @@ Implementing a continuous monitoring and evaluation process is essential for ens
 
 3. Regularly review and update AI systems based on feedback, new information, and evolving risk landscapes.
 
-### Govern 4.1: Suggested Work Products
+### Govern 4.1 Suggested Work Products
 
 * AI Ethics Charter - A document outlining the organization's commitment to ethical AI development and deployment, including principles that emphasize critical thinking, safety, fairness, transparency, and accountability.
 * Stakeholder Engagement Reports - Documentation of discussions, workshops, and forums with stakeholders to identify potential risks, ethical concerns, and impacts of AI systems, promoting open communication and debate.

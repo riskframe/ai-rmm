@@ -4,9 +4,11 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-# Manage 1: AI risks based on assessments and other analytical output from the MAP and MEASURE functions are prioritized, responded to, and managed
+# Manage 1
+> AI risks based on assessments and other analytical output from the MAP and MEASURE functions are prioritized, responded to, and managed.  [@airmf]
 
-## Manage 1.1: A determination is made as to whether the AI system achieves its intended purposes and stated objectives and whether its development or deployment should proceed.
+## Manage 1.1
+> A determination is made as to whether the AI system achieves its intended purposes and stated objectives and whether its development or deployment should proceed. [@playbook]
 
 ### Manage 1.1.1. Assess Alignment with Intended Purposes and Objectives.
 
@@ -106,7 +108,7 @@ Regularly monitoring the AI system's performance and alignment with intended pur
 
 3. Foster a culture of continuous improvement and responsiveness to stakeholder needs.
 
-### Manage 1.1: Suggested Work Products
+### Manage 1.1 Suggested Work Products
 
 * Documented Intended Purposes and Objectives - A document outlining the intended purposes and stated objectives of the AI system, ensuring clarity and alignment among stakeholders.
 * Requirements and Gap Analysis Report - A report detailing the results of requirements analysis and gap analysis, identifying any discrepancies between the system's capabilities and the desired outcomes.

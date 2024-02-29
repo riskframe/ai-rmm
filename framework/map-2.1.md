@@ -4,9 +4,11 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-# Map 2: Categorization of the AI system is performed.
+# Map 2
+> Categorization of the AI system is performed. [@airmf]
 
-## Map 2.1: The specific tasks and methods used to implement the tasks that the AI system will support are defined (e.g., classifiers, generative models, recommenders).
+## Map 2.1
+> The specific tasks and methods used to implement the tasks that the AI system will support are defined (e.g., classifiers, generative models, recommenders). [@playbook]
 
 ### Map 2.1.1. Define the Specific Tasks and Use Cases.
 
@@ -78,7 +80,7 @@ Integrating the selected AI techniques involves embedding them within the system
 
 3. Conduct simulations or prototypes to test the integration of AI components into the system and identify any potential issues or challenges.
 
-### Map 2.1: Suggested Work Products
+### Map 2.1 Suggested Work Products
 
 * AI System Use Case Documentation - Detailed descriptions of the specific tasks and use cases the AI system is intended to support, including target user groups and desired outcomes.
 * AI Techniques Evaluation Report - An assessment of various AI techniques and methods, such as classifiers, generative models, and recommenders, with evaluations on their suitability, benefits, and limitations for the defined tasks and use cases.

@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Map 1.2: Interdisciplinary AI actors, competencies, skills, and capacities for establishing context reflect demographic diversity and broad domain and user experience expertise, and their participation is documented. Opportunities for interdisciplinary collaboration are prioritized.
+## Map 1.2
+> Interdisciplinary AI actors, competencies, skills, and capacities for establishing context reflect demographic diversity and broad domain and user experience expertise, and their participation is documented. Opportunities for interdisciplinary collaboration are prioritized. [@playbook]
 
 ### Map 1.2.1. Foster a Culture of Inclusiveness and Diversity.
 
@@ -76,7 +77,7 @@ Regularly assessing the effectiveness of interdisciplinary collaboration practic
 
 3. Adapt collaboration strategies based on feedback and evolving needs throughout the AI lifecycle.
 
-### Map 1.2: Suggested Work Products
+### Map 1.2 Suggested Work Products
 
 * Diversity and Inclusion Policy - A formal document outlining the organization's commitment to fostering diversity and inclusivity within AI teams, including recruitment practices, training programs, and collaboration initiatives.
 * Interdisciplinary Team Roster - A detailed list of team members, their backgrounds, roles, and expertise, highlighting the interdisciplinary nature of the team and the diversity among its members.

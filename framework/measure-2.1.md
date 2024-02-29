@@ -4,9 +4,11 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-# Measure 2: AI systems are evaluated for trustworthy characteristics.
+# Measure 2
+> AI systems are evaluated for trustworthy characteristics. [@airmf]
 
-## Measure 2.1: Test sets, metrics, and details about the tools used during Test & Evaluation, Validation & Verification (TEVV) are documented.
+## Measure 2.1
+> Test sets, metrics, and details about the tools used during Test & Evaluation, Validation & Verification (TEVV) are documented. [@playbook]
 
 ### Measure 2.1.1. Develop and Document Test Sets.
 
@@ -102,7 +104,7 @@ Regularly assessing the testing strategy, test sets, and metrics ensures they st
 
 3. Keep testing tools up-to-date and incorporate new testing methodologies and technologies to maintain the effectiveness of testing activities.
 
-### Measure 2.1: Suggested Work Products
+### Measure 2.1 Suggested Work Products
 
 * Test Dataset Documentation - Detailed records of test datasets used, including data sources, preprocessing steps, annotations, and metadata to ensure transparency and reproducibility in AI system evaluations.
 * Test Coverage Report - A comprehensive report outlining the scenarios, inputs, and errors covered in test sets, along with justifications for the inclusion and exclusion of specific test cases, ensuring a thorough evaluation of the AI system's functionality and trustworthiness.

@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Measure 2.6: The AI system is evaluated regularly for safety risks – as identified in the map function. The AI system to be deployed is demonstrated to be safe, its residual negative risk does not exceed the risk tolerance, and it can fail safely, particularly if made to operate beyond its knowledge limits. Safety metrics reflect system reliability and robustness, real-time monitoring, and response times for AI system failures.
+## Measure 2.6
+> The AI system is evaluated regularly for safety risks – as identified in the map function. The AI system to be deployed is demonstrated to be safe, its residual negative risk does not exceed the risk tolerance, and it can fail safely, particularly if made to operate beyond its knowledge limits. Safety metrics reflect system reliability and robustness, real-time monitoring, and response times for AI system failures. [@playbook]
 
 ### Measure 2.6.1. Establish a Safety Risk Evaluation Framework.
 
@@ -118,7 +119,7 @@ Soliciting feedback from a wide range of stakeholders, including developers, ope
 
 3. Stay informed about emerging safety risks and technological advancements in safety engineering to maintain the AI system's safety posture.
 
-### Measure 2.6: Suggested Work Products
+### Measure 2.6 Suggested Work Products
 
 * Safety Risk Evaluation Framework Document - A comprehensive document outlining the framework for evaluating safety risks, including identification, assessment, and mitigation processes.
 * Safety Risk Register - A detailed log of identified safety risks categorized by severity, likelihood, and potential impact, including their current status and mitigation measures.

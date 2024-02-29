@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Measure 3.3: Feedback processes for end users and impacted communities to report problems and appeal system outcomes are established and integrated into AI system evaluation metrics.
+## Measure 3.3
+> Feedback processes for end users and impacted communities to report problems and appeal system outcomes are established and integrated into AI system evaluation metrics. [@playbook]
 
 ### Measure 3.3.1. Establish Feedback Mechanisms for End Users and Impacted Communities.
 
@@ -90,7 +91,7 @@ Addressing feedback promptly and with respect is essential for demonstrating an 
 
 3. Regularly publish feedback summaries and analysis reports to demonstrate transparency and accountability in AI development and deployment.
 
-### Measure 3.3: Suggested Work Products
+### Measure 3.3 Suggested Work Products
 
 * Feedback Channel Accessibility Guidelines - A set of guidelines ensuring that all feedback mechanisms are easily discoverable and accessible, addressing various languages, cultural contexts, and abilities.
 * Feedback Reporting Templates and Examples - A collection of templates and examples for users to report their feedback effectively, including clear instructions on submitting various types of feedback.

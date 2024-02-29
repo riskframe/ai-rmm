@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Map 1.3: The organization’s mission and relevant goals for AI technology are understood and documented.
+## Map 1.3
+> The organization’s mission and relevant goals for AI technology are understood and documented. [@playbook]
 
 ### Map 1.3.1. Articulate a Clear and Comprehensive Mission Statement.
 
@@ -76,7 +77,7 @@ Proactive communication of the organization's mission statement, objectives in A
 
 3. Foster transparency and accountability by regularly reporting on the organization's progress in achieving its AI goals.
 
-### Map 1.3: Suggested Work Products
+### Map 1.3 Suggested Work Products
 
 * Mission Statement for AI Initiatives - A document that clearly articulates the organization's purpose, core values, and ethical considerations in adopting AI, serving as a guiding beacon for all AI-related activities.
 * AI Goals Roadmap - A detailed plan that outlines specific, measurable goals for AI technology within the organization, aligning with the overarching mission and strategic objectives.

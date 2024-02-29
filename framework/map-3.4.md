@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Map 3.4: Processes for operator and practitioner proficiency with AI system performance and trustworthiness – and relevant technical standards and certifications – are defined, assessed, and documented.
+## Map 3.4
+> Processes for operator and practitioner proficiency with AI system performance and trustworthiness – and relevant technical standards and certifications – are defined, assessed, and documented. [@playbook]
 
 ### Map 3.4.1. Establish Clear Proficiency Requirements.
 
@@ -76,7 +77,7 @@ Regularly reviewing and evaluating proficiency requirements, standards, and cert
 
 3. Adapt training programs, certification processes, and proficiency requirements as needed to maintain a high level of operator and practitioner competence.
 
-### Map 3.4: Suggested Work Products
+### Map 3.4 Suggested Work Products
 
 * Proficiency Requirements Document - A detailed outline of the skills, knowledge, and competencies required for operators and practitioners to effectively manage AI system performance and trustworthiness.
 * Technical Standards and Certifications Guide - A comprehensive list of relevant technical standards, guidelines, and certifications that assess the competency of AI operators and practitioners, including their applicability to the organization's AI systems.

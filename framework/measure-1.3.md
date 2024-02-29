@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Measure 1.3: Internal experts who did not serve as front-line developers for the system and/or independent assessors are involved in regular assessments and updates. Domain experts, users, AI actors external to the team that developed or deployed the AI system, and affected communities are consulted in support of assessments as necessary per organizational risk tolerance.
+## Measure 1.3
+> Internal experts who did not serve as front-line developers for the system and/or independent assessors are involved in regular assessments and updates. Domain experts, users, AI actors external to the team that developed or deployed the AI system, and affected communities are consulted in support of assessments as necessary per organizational risk tolerance. [@playbook]
 
 ### Measure 1.3.1. Engage Internal and External Expertise.
 
@@ -88,7 +89,7 @@ This practice requires periodically assessing the efficacy of current methods an
 
 2. Seek feedback from participants on the assessment process and their perceived contribution to the overall assessment outcomes.
 
-### Measure 1.3: Suggested Work Products
+### Measure 1.3 Suggested Work Products
 
 * Independent Expert Review Report - Documentation of assessments conducted by internal experts not involved in the development of the AI system, detailing their findings and recommendations.
 * External Assessor Engagement Plan - A comprehensive plan outlining the process for selecting, onboarding, and collaborating with external assessors, including criteria for their competence and impartiality.

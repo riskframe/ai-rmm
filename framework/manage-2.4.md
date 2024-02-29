@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Manage 2.4: Mechanisms are in place and applied, and responsibilities are assigned and understood, to supersede, disengage, or deactivate AI systems that demonstrate performance or outcomes inconsistent with intended use.
+## Manage 2.4
+> Mechanisms are in place and applied, and responsibilities are assigned and understood, to supersede, disengage, or deactivate AI systems that demonstrate performance or outcomes inconsistent with intended use. [@playbook]
 
 ### Manage 2.4.1. Establish a Disengagement and Deactivation Framework.
 
@@ -102,7 +103,7 @@ Fostering a culture of responsible AI development and deployment involves priori
 
 3. Integrate these principles into organizational policies, procedures, and training programs to ensure a holistic approach to AI safety and accountability.
 
-### Manage 2.4: Suggested Work Products
+### Manage 2.4 Suggested Work Products
 
 * Disengagement and Deactivation Framework Document - A comprehensive document outlining the procedures, criteria, and responsibilities for disengaging or deactivating AI systems that demonstrate inconsistent performance or outcomes.
 * Potential Disengagement Scenarios Analysis Report - A report detailing the identified potential scenarios necessitating the disengagement or deactivation of AI systems, along with the associated risks and mitigation strategies.

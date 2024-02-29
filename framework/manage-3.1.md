@@ -4,9 +4,11 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-# Manage 3: AI risks and benefits from third-party entities are managed.
+# Manage 3
+> AI risks and benefits from third-party entities are managed. [@airmf]
 
-## Manage 3.1: AI risks and benefits from third-party resources are regularly monitored, and risk controls are applied and documented.
+## Manage 3.1
+> AI risks and benefits from third-party resources are regularly monitored, and risk controls are applied and documented. [@playbook]
 
 ### Manage 3.1.1. Identify and Evaluate Third-party Resources.
 
@@ -106,7 +108,7 @@ Integrating AI RMF practices into the organization's procurement processes invol
 
 3. Establish clear expectations for third-party providers to demonstrate compliance with AI RMF principles throughout the lifecycle of their services.
 
-### Manage 3.1: Suggested Work Products
+### Manage 3.1 Suggested Work Products
 
 * Third-Party Resource Assessment Reports - Documentation detailing the assessment findings of third-party AI resources, including capabilities, reliability, and associated risks.
 * Formal Contracts with Third-party Providers - Legal agreements outlining expectations, responsibilities, and terms related to data usage, security, and compliance with third-party providers.

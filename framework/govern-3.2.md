@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Govern 3.2: Policies and procedures are in place to define and differentiate roles and responsibilities for human-AI configurations and oversight of AI systems.
+## Govern 3.2
+> Policies and procedures are in place to define and differentiate roles and responsibilities for human-AI configurations and oversight of AI systems. [@playbook]
 
 ### Govern 3.2.1. Establish Clear Roles and Responsibilities.
 
@@ -76,7 +77,7 @@ Periodically conducting audits is crucial for evaluating compliance with policie
 
 3. Implement corrective actions to ensure ongoing compliance and maintain a robust framework for human-AI interactions.
 
-### Govern 3.2: Suggested Work Products
+### Govern 3.2 Suggested Work Products
 
 * Roles and Responsibilities Framework Document - A comprehensive document that outlines the roles, responsibilities, and accountability structures for individuals involved in human-AI configurations and AI system oversight, ensuring clarity and promoting effective collaboration.
 * RACI Matrix - A detailed RACI (Responsible, Accountable, Consulted, Informed) matrix that documents and visually represents the roles and responsibilities of all parties involved in AI configurations and oversight, enhancing transparency and accountability.

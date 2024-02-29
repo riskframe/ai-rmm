@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Measure 2.3: AI system performance or assurance criteria are measured qualitatively or quantitatively and demonstrated for conditions similar to deployment setting(s). Measures are documented.
+## Measure 2.3
+> AI system performance or assurance criteria are measured qualitatively or quantitatively and demonstrated for conditions similar to deployment setting(s). Measures are documented. [@playbook]
 
 ### Measure 2.3.1. Establish Performance or Assurance Criteria.
 
@@ -104,7 +105,7 @@ This practice involves regularly evaluating effectiveness, gathering stakeholder
 
 3. Maintain a living document that reflects the dynamic nature of the AI system's performance and assurance, ensuring it remains relevant and aligned with organizational objectives.
 
-### Measure 2.3: Suggested Work Products
+### Measure 2.3 Suggested Work Products
 
 * Performance and Assurance Criteria Document - A comprehensive document detailing the clear and measurable criteria for evaluating the AI system's performance and assurance, including aspects such as accuracy, fairness, robustness, explainability, and security.
 * Deployment Setting Analysis Report - A report that characterizes the intended deployment settings of the AI system, outlining factors such as user demographics, data availability, and environmental conditions, along with the rationale for their selection.

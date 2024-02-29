@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Govern 2.3: Executive leadership of the organization takes responsibility for decisions about risks associated with AI system development and deployment.
+## Govern 2.3
+> Executive leadership of the organization takes responsibility for decisions about risks associated with AI system development and deployment. [@playbook]
 
 ### Govern 2.3.1. Establish an AI Risk Management Leadership Council.
 
@@ -76,7 +77,7 @@ Establishing a structured reporting mechanism for AI risk management, ensures th
 
 3. Use risk reports to inform decision-making processes and drive continuous improvement in AI risk management.
 
-### Govern 2.3: Suggested Work Products
+### Govern 2.3 Suggested Work Products
 
 * Charter document - A document for the AI Risk Management Leadership Council, outlining its objectives, members, roles, and operating procedures.
 * Comprehensive AI risk management policy - A document detailing the approach to identifying, assessing, and mitigating AI risks, including roles and responsibilities.

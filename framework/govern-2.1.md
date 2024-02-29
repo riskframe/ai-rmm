@@ -4,9 +4,11 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
 
-# Govern 2: Accountability structures are in place so that the appropriate teams and individuals are empowered, responsible, and trained for mapping, measuring, and managing AI risks.
+# Govern 2
+> Accountability structures are in place so that the appropriate teams and individuals are empowered, responsible, and trained for mapping, measuring, and managing AI risks. [@airmf]
 
-## Govern 2.1: Roles and responsibilities and lines of communication related to mapping, measuring, and managing AI risks are documented and are clear to individuals and teams throughout the organization.
+## Govern 2.1
+> Roles and responsibilities and lines of communication related to mapping, measuring, and managing AI risks are documented and are clear to individuals and teams throughout the organization. [@playbook]
 
 ### Govern 2.1.1. Define and Document Roles and Responsibilities.
 
@@ -50,7 +52,7 @@ Establishing comprehensive training and awareness initiatives is crucial for ens
 
 3. Ensure that training and awareness programs are regularly updated to reflect evolving AI risk landscapes.
 
-### Govern 2.1: Suggested Work Products
+### Govern 2.1 Suggested Work Products
 
 * Roles and Responsibilities Documentation - A comprehensive document detailing the roles, responsibilities, and lines of communication for all individuals and teams involved in AI risk management, aligning with the RACI matrix format.
 * AI Risk Management RACI Matrix - A detailed RACI matrix that clearly outlines who is Responsible, Accountable, Consulted, and Informed for each aspect of AI risk management, ensuring clarity and accountability.

@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Manage 1.3: Responses to the AI risks deemed high priority, as identified by the map function, are developed, planned, and documented. Risk response options can include mitigating, transferring, avoiding, or accepting.
+## Manage 1.3
+> Responses to the AI risks deemed high priority, as identified by the map function, are developed, planned, and documented. Risk response options can include mitigating, transferring, avoiding, or accepting. [@playbook]
 
 ### Manage 1.3.1. Identify and Prioritize High-Priority Risks.
 
@@ -116,7 +117,7 @@ Promoting a culture of risk-awareness and responsibility involves educating stak
 
 3. Integrate risk management principles into organizational policies, procedures, and training programs.
 
-### Manage 1.3: Suggested Work Products
+### Manage 1.3 Suggested Work Products
 
 * High-Priority Risk Identification Report - A report detailing the identified high-priority AI risks based on their potential impact and likelihood, providing a comprehensive overview for prioritized risk management.
 * Risk Mitigation Plan - Comprehensive plans detailing specific actions, timelines, responsible parties, and resource allocations for mitigating high-priority AI risks, ensuring systematic and effective risk management.

@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Govern 1.4: The risk management process and its outcomes are established through transparent policies, procedures, and other controls based on organizational risk priorities.
+## Govern 1.4
+> The risk management process and its outcomes are established through transparent policies, procedures, and other controls based on organizational risk priorities. [@playbook]
 
 ### Govern 1.4.1. Establish clear risk management policies.
 
@@ -90,7 +91,7 @@ Ensuring risk management is a core component of the AI governance framework is c
 
 3. Promote continuous learning and improvement in AI risk management practices through feedback loops and lessons learned.
 
-### Govern 1.4: Suggested Work Products
+### Govern 1.4 Suggested Work Products
 
 * AI Risk Management Policy Document - A comprehensive policy document that outlines the organization's approach to managing AI-related risks, incorporating principles of fairness, explainability, accountability, reliability, and security, and aligning with the overall risk management framework of the organization.
 * Risk Management Procedures Manual - A detailed manual that specifies structured procedures for identifying, assessing, mitigating, and monitoring risks throughout the AI lifecycle, ensuring consistency and effectiveness in risk management activities.

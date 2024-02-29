@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Manage 2.2: Mechanisms are in place and applied to sustain the value of deployed AI systems.
+## Manage 2.2
+> Mechanisms are in place and applied to sustain the value of deployed AI systems. [@playbook]
 
 ### Manage 2.2.1. Establish Ongoing Monitoring and Evaluation.
 
@@ -104,7 +105,7 @@ Monitoring and assessing the evolving needs of users, stakeholders, and the broa
 
 3. Stay abreast of technological advancements in AI, data science, and related fields to identify opportunities for improvement and innovation.
 
-### Manage 2.2: Suggested Work Products
+### Manage 2.2 Suggested Work Products
 
 * Monitoring and Evaluation Plan - A comprehensive plan outlining the processes and procedures for ongoing monitoring and evaluation of deployed AI systems, including key performance indicators (KPIs) and metrics to track.
 * Automated Maintenance and Update Schedule - A schedule detailing the automated maintenance tasks and update procedures for keeping deployed AI systems up-to-date and optimized.

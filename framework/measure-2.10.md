@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Measure 2.10: Privacy risk of the AI system – as identified in the map function – is examined and documented.
+## Measure 2.10
+> Privacy risk of the AI system – as identified in the map function – is examined and documented. [@playbook]
 
 ### Measure 2.10.1. Identify and Assess Privacy Risks.
 
@@ -104,7 +105,7 @@ Education and training play a critical role in embedding these privacy principle
 
 3. Integrate privacy considerations into organizational policies, procedures, and governance frameworks.
 
-### Measure 2.10: Suggested Work Products
+### Measure 2.10 Suggested Work Products
 
 * Privacy Risk Assessment Report - A report detailing identified privacy risks, including data collection, storage, processing, and usage vulnerabilities.
 * Impact Analysis Document - A document outlining the potential impacts of identified privacy risks on individuals, the organization, and society, including potential harm, discrimination, or reputational damage.

@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Manage 4.2: Measurable activities for continual improvements are integrated into AI system updates and include regular engagement with interested parties, including relevant AI actors.
+## Manage 4.2
+> Measurable activities for continual improvements are integrated into AI system updates and include regular engagement with interested parties, including relevant AI actors. [@playbook]
 
 ### Manage 4.2.1. Integrate Measurable Improvement Goals.
 
@@ -90,7 +91,7 @@ Regularly evaluating the effectiveness of AI system updates in achieving improve
 
 3. Foster a culture of continuous improvement and adaptability to ensure that AI systems remain relevant, trustworthy, and effective in meeting evolving requirements.
 
-### Manage 4.2: Suggested Work Products
+### Manage 4.2 Suggested Work Products
 
 * Measurable Improvement Goals Document - A document outlining specific, measurable improvement goals for AI system updates, including defined metrics and targets.
 * Update Schedule Calendar - A calendar or schedule detailing the planned update cycles for the AI system, including dates for implementation and relevant milestones.

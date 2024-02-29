@@ -4,9 +4,11 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-# Measure 3: Mechanisms for tracking identified AI risks over time are in place.
+# Measure 3
+> Mechanisms for tracking identified AI risks over time are in place. [@airmf]
 
-## Measure 3.1: Approaches, personnel, and documentation are in place to regularly identify and track existing, unanticipated, and emergent AI risks based on factors such as intended and actual performance in deployed contexts.
+## Measure 3.1
+> Approaches, personnel, and documentation are in place to regularly identify and track existing, unanticipated, and emergent AI risks based on factors such as intended and actual performance in deployed contexts. [@playbook]
 
 ### Measure 3.1.1. Establish a Risk Tracking Mechanism.
 
@@ -106,7 +108,7 @@ Education and training play a crucial role in embedding a robust risk culture. B
 
 3. Integrate risk management considerations into organizational policies, procedures, and governance frameworks to ensure ongoing risk assessment and mitigation.
 
-### Measure 3.1: Suggested Work Products
+### Measure 3.1 Suggested Work Products
 
 * AI Risk Tracking System Design Document - A document detailing the structure and functionality of the risk tracking mechanism, including the risk management tool or platform specifications.
 * Risk Identification Process Manual - A document specifying the formal procedures for uncovering risks across the AI system's lifecycle, roles of the risk identification team, and the techniques employed.

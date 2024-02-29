@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Map 2.2: Information about the AI system’s knowledge limits and how system output may be utilized and overseen by humans is documented. Documentation provides sufficient information to assist relevant AI actors when making decisions and taking subsequent actions.
+## Map 2.2
+> Information about the AI system’s knowledge limits and how system output may be utilized and overseen by humans is documented. Documentation provides sufficient information to assist relevant AI actors when making decisions and taking subsequent actions. [@playbook]
 
 ### Map 2.2.1. Identify and Document AI System Knowledge Limits.
 
@@ -76,7 +77,7 @@ This process on the AI system's knowledge limits involves regularly revising the
 
 3. Maintain a living document that reflects the current knowledge of the AI system's capabilities and the role of human oversight in ensuring responsible decision-making.
 
-### Map 2.2: Suggested Work Products
+### Map 2.2 Suggested Work Products
 
 * Knowledge Limits Analysis Report - Document detailing the AI system's understanding, processing capabilities, and identified knowledge limits, including potential sources of bias and data limitations.
 * Overriding Mechanism Manual - Detailed instructions and protocols for human operators on how to override or correct AI decisions, including the criteria for intervention and the steps to take when intervention is necessary.

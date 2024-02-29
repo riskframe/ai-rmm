@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Manage 1.4: Negative residual risks (defined as the sum of all unmitigated risks) to both downstream acquirers of AI systems and end users are documented.
+## Manage 1.4
+> Negative residual risks (defined as the sum of all unmitigated risks) to both downstream acquirers of AI systems and end users are documented. [@playbook]
 
 ### Manage 1.4.1. Identify and Quantify Residual Risks.
 
@@ -90,7 +91,7 @@ Promoting a culture of risk awareness and transparency is crucial for managing A
 
 3. Integrate risk management into organizational policies, procedures, and training programs to ensure ongoing risk awareness and accountability.
 
-### Manage 1.4: Suggested Work Products
+### Manage 1.4 Suggested Work Products
 
 * Residual Risk Assessment Report - A report detailing the identified residual risks after implementing risk mitigation strategies, quantifying their potential impact and likelihood for downstream acquirers and end users.
 * Residual Risk Documentation for Downstream Acquirers - Comprehensive documentation outlining residual risks specifically tailored for downstream acquirers, including details about the nature, severity, and potential consequences of each residual risk.

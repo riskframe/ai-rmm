@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Measure 2.7: AI system security and resilience – as identified in the map function – are evaluated and documented.
+## Measure 2.7
+> AI system security and resilience – as identified in the map function – are evaluated and documented. [@playbook]
 
 ### Measure 2.7.1. Establish a Security and Resilience Evaluation Framework.
 
@@ -132,7 +133,7 @@ Staying informed about new security threats and advancements in cybersecurity te
 
 3. Stay informed about emerging security threats, vulnerabilities, and technological advancements in cybersecurity to maintain the AI system's security posture.
 
-### Measure 2.7: Suggested Work Products
+### Measure 2.7 Suggested Work Products
 
 * Security and Resilience Evaluation Framework - A document that outlines the methodology for identifying, assessing, and mitigating potential security threats and vulnerabilities within the AI system.
 * Security Risk Assessment Report - A report that categorizes identified security risks based on their severity, likelihood, and potential impact, including a plan for prioritizing and addressing these risks.

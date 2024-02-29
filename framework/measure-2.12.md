@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Measure 2.12: Environmental impact and sustainability of AI model training and management activities – as identified in the map function – are assessed and documented.
+## Measure 2.12
+> Environmental impact and sustainability of AI model training and management activities – as identified in the map function – are assessed and documented. [@playbook]
 
 ### Measure 2.12.1. Identify and Assess Environmental Impact.
 
@@ -90,7 +91,7 @@ Education and training for AI professionals on environmental impact assessment m
 
 3. Integrate environmental sustainability considerations into organizational policies, procedures, and governance frameworks.
 
-### Measure 2.12: Suggested Work Products
+### Measure 2.12 Suggested Work Products
 
 * Environmental Impact Assessment Report - Document detailing the environmental impact of AI model training and management activities, including energy consumption, resource utilization, and greenhouse gas emissions.
 * Sustainability Policy Document - A formal document outlining the organization's commitment to environmental sustainability in AI practices, including goals, strategies, and responsible practices.

@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Manage 3.2: Pre-trained models which are used for development are monitored as part of AI system regular monitoring and maintenance.
+## Manage 3.2
+> Pre-trained models which are used for development are monitored as part of AI system regular monitoring and maintenance. [@playbook]
 
 ### Manage 3.2.1. Establish Pre-trained Model Inventory and Tracking.
 
@@ -90,7 +91,7 @@ Highlighting the importance of managing pre-trained models responsibly involves 
 
 3. Integrate pre-trained model management practices into organizational policies, procedures, and training programs to promote a culture of continuous improvement and risk mitigation.
 
-### Manage 3.2: Suggested Work Products
+### Manage 3.2 Suggested Work Products
 
 * Pre-trained Model Inventory and Tracking Database - A centralized database documenting key information about pre-trained models, including their origin, version, licensing agreements, and performance metrics.
 * Regular Monitoring Reports - Reports detailing the ongoing monitoring of pre-trained model performance, including assessments of accuracy, latency, and potential drift, with insights into any deviations or deteriorations observed.

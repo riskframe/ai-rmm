@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Govern 1.6: Mechanisms are in place to inventory AI systems and are resourced according to organizational risk priorities.
+## Govern 1.6
+> Mechanisms are in place to inventory AI systems and are resourced according to organizational risk priorities. [@playbook]
 
 ### Govern 1.6.1. Inventory AI systems.
 
@@ -90,7 +91,7 @@ Regularly reviewing and updating the AI risk management framework, including the
 
 3. Adapt risk management practices to address emerging AI technologies and evolving risk landscapes.
 
-### Govern 1.6: Suggested Work Products
+### Govern 1.6 Suggested Work Products
 
 * AI Systems Inventory Report - A comprehensive document detailing all AI systems within the organization, including their purpose, capabilities, data sources, and integration points. This report should be regularly updated to reflect the current AI landscape of the organization.
 * Risk Categorization Matrix - A tool or document that assigns risk scores to AI systems and categorizes them into different risk levels (e.g., high, medium, low), facilitating prioritization for further action.

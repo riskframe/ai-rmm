@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Manage 1.2: Treatment of documented AI risks is prioritized based on impact, likelihood, and available resources or methods.
+## Manage 1.2
+> Treatment of documented AI risks is prioritized based on impact, likelihood, and available resources or methods. [@playbook]
 
 ### Manage 1.2.1. Prioritize Risks Based on Impact and Likelihood.
 
@@ -104,7 +105,7 @@ Promoting a culture of risk awareness and responsibility is paramount in effecti
 
 3. Integrate risk management principles into organizational policies, procedures, and training programs.
 
-### Manage 1.2: Suggested Work Products
+### Manage 1.2 Suggested Work Products
 
 * Risk Prioritization Matrix - A matrix outlining prioritized AI risks based on their impact and likelihood, providing a clear indication of which risks require immediate attention and allocation of resources.
 * Risk Categorization Report - A report categorizing and grouping similar AI risks based on shared characteristics or potential impacts, facilitating more efficient risk management and treatment strategies.

@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Map 3.2: Potential costs, including non-monetary costs, which result from expected or realized AI errors or system functionality and trustworthiness – as connected to organizational risk tolerance – are examined and documented.
+## Map 3.2
+> Potential costs, including non-monetary costs, which result from expected or realized AI errors or system functionality and trustworthiness – as connected to organizational risk tolerance – are examined and documented. [@playbook]
 
 ### Map 3.2.1. Identify and Assess Potential Costs.
 
@@ -76,7 +77,7 @@ This practice involves establishing a robust mechanism for tracking and assessin
 
 3. Use the gathered data to refine risk assessment models and improve the organization's overall approach to AI risk management.
 
-### Map 3.2: Suggested Work Products
+### Map 3.2 Suggested Work Products
 
 * Risk Assessment Report - A comprehensive analysis detailing potential financial, reputational, legal, and societal costs associated with AI errors, including both monetary and non-monetary implications.
 * Cost Impact Analysis - Documentation evaluating the severity and likelihood of various costs stemming from AI errors, using risk assessment methodologies to prioritize mitigation efforts.

@@ -4,9 +4,11 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-# Govern 5: Processes are in place for robust engagement with relevant AI actors.
+# Govern 5
+> Processes are in place for robust engagement with relevant AI actors. [@airmf]
 
-## Govern 5.1: Organizational policies and practices are in place to collect, consider, prioritize, and integrate feedback from those external to the team that developed or deployed the AI system regarding the potential individual and societal impacts related to AI risks.
+## Govern 5.1
+> Organizational policies and practices are in place to collect, consider, prioritize, and integrate feedback from those external to the team that developed or deployed the AI system regarding the potential individual and societal impacts related to AI risks. [@playbook]
 
 ### Govern 5.1.1. Establish a Feedback Collection Mechanism.
 
@@ -78,7 +80,7 @@ Evaluating the effectiveness of feedback collection and prioritization mechanism
 
 3. Adapt feedback mechanisms to ensure that they effectively capture the concerns and perspectives of a wide range of external stakeholders.
 
-### Govern 5.1: Suggested Work Products
+### Govern 5.1 Suggested Work Products
 
 * Feedback Collection Policy - A document outlining the organization's approach to collecting feedback from external stakeholders, including the methods and channels used, such as surveys and focus groups.
 * Stakeholder Engagement Plan - A comprehensive plan for engaging with stakeholders external to the AI development or deployment team, including schedules for regular communication and collaboration activities.

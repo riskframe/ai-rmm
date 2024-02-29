@@ -4,9 +4,11 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-# Map 1: Context is established and understood.
+# Map 1
+> Context is established and understood. [@airmf]
 
-## Map 1.1: Intended purposes, potentially beneficial uses, context-specific laws, norms and expectations, and prospective settings in which the AI system will be deployed are understood and documented. Considerations include the specific set or types of users along with their expectations; potential positive and negative impacts of system uses to individuals, communities, organizations, society, and the planet; assumptions and related limitations about AI system purposes, uses, and risks across the development or product AI lifecycle; and related Test, Evaluation, Verification, and Validation (TEVV) and system metrics.
+## Map 1.1
+> Intended purposes, potentially beneficial uses, context-specific laws, norms and expectations, and prospective settings in which the AI system will be deployed are understood and documented. Considerations include the specific set or types of users along with their expectations; potential positive and negative impacts of system uses to individuals, communities, organizations, society, and the planet; assumptions and related limitations about AI system purposes, uses, and risks across the development or product AI lifecycle; and related Test, Evaluation, Verification, and Validation (TEVV) and system metrics. [@playbook]
 
 ### Map 1.1.1. Clearly Define Intended Purposes and Beneficial Uses.
 
@@ -93,7 +95,7 @@ Implementing a structured methodology for consistently evaluating and revising k
 
 3. Maintain a centralized repository to document all mapping information and ensure accessibility for relevant stakeholders.
 
-### Map 1.1: Suggested Work Products
+### Map 1.1 Suggested Work Products
 
 * AI Purpose and Benefit Documentation - A comprehensive document that outlines the intended purposes, beneficial uses, and expected positive impacts of the AI system on users, communities, organizations, society, and the planet.
 * Legal and Ethical Compliance Report - A detailed analysis that covers the legal, regulatory, ethical, and social norms relevant to the AI system's intended use, including an assessment of data protection frameworks, industry regulations, and ethical considerations such as fairness and privacy.

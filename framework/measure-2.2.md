@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Measure 2.2: Evaluations involving human subjects meet applicable requirements (including human subject protection) and are representative of the relevant population.
+## Measure 2.2
+> Evaluations involving human subjects meet applicable requirements (including human subject protection) and are representative of the relevant population. [@playbook]
 
 ### Measure 2.2.1. Design and Plan Human-Subject Evaluations.
 
@@ -118,7 +119,7 @@ Continually reviewing and refining human-subject evaluation methods is crucial f
 
 3. Integrate lessons learned from evaluation processes into training programs and guidelines for conducting responsible AI research.
 
-### Measure 2.2: Suggested Work Products
+### Measure 2.2 Suggested Work Products
 
 * Ethical Review Board Approval Documentation - detailing the board's examination and approval of the planned evaluation, ensuring adherence to ethical standards and human subject protection.
 * Informed Consent Forms - customized for clarity and comprehensiveness, to effectively communicate the study's purpose, procedures, risks, and benefits to participants.

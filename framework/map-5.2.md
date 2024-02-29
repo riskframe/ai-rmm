@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Map 5.2: Practices and personnel for supporting regular engagement with relevant AI actors and integrating feedback about positive, negative, and unanticipated impacts are in place and documented.
+## Map 5.2
+> Practices and personnel for supporting regular engagement with relevant AI actors and integrating feedback about positive, negative, and unanticipated impacts are in place and documented. [@playbook]
 
 ### Map 5.2.1. Establish a Mechanism for Regular Engagement.
 
@@ -76,7 +77,7 @@ This practice involves assessing their responsiveness, quality, and stakeholder 
 
 3. Adapt engagement strategies and feedback integration processes based on the evaluation findings and emerging feedback patterns.
 
-### Map 5.2: Suggested Work Products
+### Map 5.2 Suggested Work Products
 
 * Stakeholder Engagement Plan - Document detailing the structured mechanism for regular engagement with relevant AI actors, including stakeholders, users, experts, and researchers, covering communication channels, frequency, and formats for feedback exchange.
 * Roles and Responsibilities Matrix - A comprehensive outline of the roles and responsibilities assigned to individuals or teams responsible for facilitating and maintaining interactions with relevant AI actors.

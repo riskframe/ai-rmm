@@ -4,9 +4,11 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-# Map 3: AI capabilities, targeted usage, goals, and expected benefits and costs compared with appropriate benchmarks are understood.
+# Map 3
+> AI capabilities, targeted usage, goals, and expected benefits and costs compared with appropriate benchmarks are understood. [@airmf]
 
-## Map 3.1: Potential benefits of intended AI system functionality and performance are examined and documented.
+## Map 3.1
+> Potential benefits of intended AI system functionality and performance are examined and documented. [@playbook]
 
 ### Map 3.1.1. Identify and Evaluate Intended Benefits.
 
@@ -78,7 +80,7 @@ Continuously monitoring and evaluating actual benefits involves establishing mec
 
 3. Use the gathered data to refine the AI system and identify areas for improvement.
 
-### Map 3.1: Suggested Work Products
+### Map 3.1 Suggested Work Products
 
 * Benefits Identification Report - A comprehensive document that outlines the specific benefits expected from the AI system, linking these to the organization's strategic objectives and user needs.
 * Quantitative Benefits Analysis - Detailed analysis and forecasts of efficiency, productivity, revenue, or customer satisfaction improvements, supported by data and metrics.

@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Govern 1.3: Processes, procedures, and practices are in place to determine the needed level of risk management activities based on the organization's risk tolerance.
+## Govern 1.3
+> Processes, procedures, and practices are in place to determine the needed level of risk management activities based on the organization's risk tolerance. [@playbook]
 
 ### Govern 1.3.1. Establish an organizational risk tolerance framework.
 
@@ -90,7 +91,7 @@ Regularly monitoring AI systems for new and evolving risks, coupled with frequen
 
 3. Incorporate lessons learned from risk management activities into the organization's overall AI governance framework.
 
-### Govern 1.3: Suggested Work Products
+### Govern 1.3 Suggested Work Products
 
 * Organizational Risk Tolerance Framework Document - A comprehensive document that outlines the organization's risk tolerance levels, including specific thresholds, criteria, and decision-making guidelines tailored to AI-related activities and projects.
 * AI Risk Tolerance Matrix - A structured tool that maps out various AI-related risks against the organization's risk tolerance levels, providing clear guidance on risk acceptance, mitigation, or transfer strategies.
