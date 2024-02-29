@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Measure 4.2: Measurement results regarding AI system trustworthiness in deployment context(s) and across the AI lifecycle are informed by input from domain experts and relevant AI actors to validate whether the system is performing consistently as intended. Results are documented.
+## Measure 4.2
+> Measurement results regarding AI system trustworthiness in deployment context(s) and across the AI lifecycle are informed by input from domain experts and relevant AI actors to validate whether the system is performing consistently as intended. Results are documented. [@playbook]
 
 ### Measure 4.2.1. Gather Trustworthiness Measurement Data.
 
@@ -90,7 +91,7 @@ Promoting a proactive mindset towards trustworthiness assessment among AI develo
 
 3. Make trustworthiness a key factor in evaluating the success and adoption of AI systems.
 
-### Measure 4.2: Suggested Work Products
+### Measure 4.2 Suggested Work Products
 
 * Trustworthiness Metrics Report - Document detailing the metrics used to evaluate the AI system's explainability, fairness, validity, and value, along with the results of these evaluations.
 * Data Collection Methodology - A comprehensive guide on the various data sources utilized (system logs, user feedback, performance assessments) and how data is collected and analyzed to gauge the AI system's trustworthiness.

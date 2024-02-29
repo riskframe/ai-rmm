@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Measure 2.4: The functionality and behavior of the AI system and its components – as identified in the map function – are monitored when in production.
+## Measure 2.4
+> The functionality and behavior of the AI system and its components – as identified in the map function – are monitored when in production. [@playbook]
 
 ### Measure 2.4.1. Establish Monitoring Requirements and Objectives.
 
@@ -104,7 +105,7 @@ Incorporating feedback from a broad spectrum of stakeholders, including develope
 
 3. Adopt emerging monitoring technologies and methodologies to ensure the AI system remains adequately monitored and its trustworthiness maintained.
 
-### Measure 2.4: Suggested Work Products
+### Measure 2.4 Suggested Work Products
 
 * Monitoring Strategy Document - Outlining the comprehensive monitoring requirements, objectives, and strategies tailored to the AI system's functionality, performance, and trustworthiness.
 * Tool and Technology Evaluation Report - Detailing the assessment of monitoring tools and technologies, including their capabilities, limitations, and suitability for the AI system's specific needs.

@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Manage 2.3: Procedures are followed to respond to and recover from a previously unknown risk when it is identified.
+## Manage 2.3
+> Procedures are followed to respond to and recover from a previously unknown risk when it is identified. [@playbook]
 
 ### Manage 2.3.1. Establish Incident Response Plan.
 
@@ -90,7 +91,7 @@ Continuously reviewing and evaluating the effectiveness of risk response procedu
 
 3. Foster a culture of continuous improvement and adaptability to ensure that AI systems are resilient to unforeseen risks and challenges.
 
-### Manage 2.3: Suggested Work Products
+### Manage 2.3 Suggested Work Products
 
 * Incident Response Plan Document - A comprehensive document outlining the procedures, roles, and responsibilities for responding to previously unknown risks in AI systems.
 * Rapid Detection Mechanism Documentation - Documentation detailing the mechanisms and tools used for rapid detection of anomalies and potential risks in AI systems.

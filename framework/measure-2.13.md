@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Measure 2.13: Effectiveness of the employed TEVV metrics and processes in the measure function are evaluated and documented.
+## Measure 2.13
+> Effectiveness of the employed TEVV metrics and processes in the measure function are evaluated and documented. [@playbook]
 
 ### Measure 2.13.1. Evaluate TEVV Metric Effectiveness.
 
@@ -90,7 +91,7 @@ Education and training for AI developers, operators, and decision-makers are ess
 
 3. Integrate TEVV considerations into organizational policies, procedures, and governance frameworks to ensure ongoing TEVV assessment.
 
-### Measure 2.13: Suggested Work Products
+### Measure 2.13 Suggested Work Products
 
 * TEVV Effectiveness Evaluation Report - This document would summarize the findings from regular evaluations of TEVV metrics, including their relevance, measurability, and effectiveness in capturing AI trustworthiness aspects.
 * TEVV Metrics Gap Analysis - A comprehensive analysis identifying any gaps or limitations in the current TEVV metrics, accompanied by recommendations for refinement or adaptation.

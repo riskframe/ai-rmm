@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Map 1.6: System requirements (e.g., “the system shall respect the privacy of its users”) are elicited from and understood by relevant AI actors. Design decisions take socio-technical implications into account to address AI risks.
+## Map 1.6
+> System requirements (e.g., “the system shall respect the privacy of its users”) are elicited from and understood by relevant AI actors. Design decisions take socio-technical implications into account to address AI risks. [@playbook]
 
 ### Map 1.6.1. Elicit System Requirements from Relevant AI Actors.
 
@@ -76,7 +77,7 @@ Regularly reviewing and updating system requirements ensures that they remain re
 
 3. Maintain a living document that reflects the evolving requirements and design decisions throughout the AI lifecycle.
 
-### Map 1.6: Suggested Work Products
+### Map 1.6 Suggested Work Products
 
 * Stakeholder Engagement Report - Documenting the process and outcomes of engaging diverse AI actors, including their contributions and concerns related to system requirements.
 * System Requirements Specification - A detailed document outlining all elicited system requirements, including functional, ethical, and regulatory considerations, structured for clarity and traceability.

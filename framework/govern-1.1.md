@@ -4,9 +4,11 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-# Govern 1: Policies, processes, procedures, and practices across the organization related to the mapping, measuring, and managing of AI risks are in place, transparent, and implemented effectively.
+# Govern 1
+> Policies, processes, procedures, and practices across the organization related to the mapping, measuring, and managing of AI risks are in place, transparent, and implemented effectively. [@airmf]
 
-## Govern 1.1: Legal and regulatory requirements involving AI are understood, managed, and documented.
+## Govern 1.1
+> Legal and regulatory requirements involving AI are understood, managed, and documented. [@playbook]
 
 ### Govern 1.1.1. Identify all applicable AI-related laws and regulations.
 
@@ -98,7 +100,7 @@ Establishing an ongoing compliance monitoring procedure, with clearly defined fr
 
 3. Conduct periodic audits and reviews of AI systems and processes to verify compliance with legal and regulatory requirements.
 
-### Govern 1.1: Suggested Work Products
+### Govern 1.1 Suggested Work Products
 
 * AI Legal and Regulatory Compliance Manual - A comprehensive document detailing all applicable AI-related laws, regulations, standards, and ethical guidelines, tailored to the specific legal jurisdictions and sectors in which the organization operates.
 * Compliance Criteria Documentation - A set of documents that outline the criteria used to select relevant legal and regulatory requirements, including the rationale for their applicability to the organization's AI systems.

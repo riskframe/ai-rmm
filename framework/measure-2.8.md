@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Measure 2.8: Risks associated with transparency and accountability – as identified in the map function – are examined and documented.
+## Measure 2.8
+> Risks associated with transparency and accountability – as identified in the map function – are examined and documented. [@playbook]
 
 ### Measure 2.8.1. Identify Transparency and Accountability Concerns.
 
@@ -104,7 +105,7 @@ To effectively embed these principles into the fabric of AI initiatives, it's cr
 
 3. Integrate transparency and accountability considerations into organizational policies, procedures, and governance frameworks.
 
-### Measure 2.8: Suggested Work Products
+### Measure 2.8 Suggested Work Products
 
 * Transparency and Accountability Risk Analysis Report - A document that outlines potential risks related to transparency and accountability in AI systems, focusing on explainability, bias, and fairness.
 * Explainability Framework Documentation - Detailed descriptions of methods and mechanisms implemented to ensure the AI system's decisions are understandable and explainable to users and stakeholders.

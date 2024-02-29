@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Measure 2.11: Fairness and bias – as identified in the map function – are evaluated and results are documented.
+## Measure 2.11
+> Fairness and bias – as identified in the map function – are evaluated and results are documented. [@playbook]
 
 ### Measure 2.11.1. Identify and Assess Fairness and Bias Concerns.
 
@@ -104,7 +105,7 @@ Education and training play a pivotal role in embedding this culture of fairness
 
 3. Integrate fairness considerations into organizational policies, procedures, and governance frameworks.
 
-### Measure 2.11: Suggested Work Products
+### Measure 2.11 Suggested Work Products
 
 * Fairness and Bias Assessment Report - A report detailing identified fairness and bias concerns in the AI system, including data representation, algorithmic design, and decision-making processes.
 * Fairness Impact Analysis Document - A document outlining the potential impacts of identified fairness and bias concerns on stakeholders, including potential harm, discrimination, or social unrest.

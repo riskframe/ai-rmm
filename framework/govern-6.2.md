@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Govern 6.2: Contingency processes are in place to handle failures or incidents in third-party data or AI systems deemed to be high-risk.
+## Govern 6.2
+> Contingency processes are in place to handle failures or incidents in third-party data or AI systems deemed to be high-risk. [@playbook]
 
 ### Govern 6.2.1. Identify High-Risk Third-Party Data and AI Systems.
 
@@ -76,7 +77,7 @@ Regularly reviewing and updating contingency plans is crucial for adapting to ev
 
 3. Incorporate feedback into the revision of contingency plans to ensure their effectiveness.
 
-### Govern 6.2: Suggested Work Products
+### Govern 6.2 Suggested Work Products
 
 * Risk Assessment Report - A document detailing high-risk third-party data and AI systems, including criteria for risk identification and factors considered (sensitivity, criticality, provider reputation).
 * Comprehensive Contingency Plans - A set of plans documenting clear steps, procedures, roles, and responsibilities for responding to incidents in high-risk third-party systems.

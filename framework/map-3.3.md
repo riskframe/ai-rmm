@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Map 3.3: Targeted application scope is specified and documented based on the system’s capability, established context, and AI system categorization.
+## Map 3.3
+> Targeted application scope is specified and documented based on the system’s capability, established context, and AI system categorization. [@playbook]
 
 ### Map 3.3.1. Clearly Define AI System Capabilities.
 
@@ -76,7 +77,7 @@ Continuously reviewing and evaluating the targeted application scope of the AI s
 
 3. Maintain a living document that reflects the evolving targeted application scope and serves as a reference for ongoing AI development and deployment decisions.
 
-### Map 3.3: Suggested Work Products
+### Map 3.3 Suggested Work Products
 
 * AI System Capability Assessment Report - Document detailing the AI system's functional features, performance limitations, and data constraints, including an evaluation of its strengths and weaknesses in handling specific tasks and data types.
 * AI System Risk Classification Report - A document categorizing the AI system based on its risk level, considering its potential impact on users, stakeholders, and society, with a justification for the assigned risk tier.

@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Govern 1.5: Ongoing monitoring and periodic review of the risk management process and its outcomes are planned and organizational roles and responsibilities clearly defined, including determining the frequency of periodic review.
+## Govern 1.5
+> Ongoing monitoring and periodic review of the risk management process and its outcomes are planned and organizational roles and responsibilities clearly defined, including determining the frequency of periodic review. [@playbook]
 
 ### Govern 1.5.1. Define the scope and frequency of monitoring.
 
@@ -90,7 +91,7 @@ Incorporating monitoring and review activities into the regular workflows of tea
 
 3. Establish a feedback loop to incorporate insights from monitoring and review activities into the continuous improvement of AI risk management practices.
 
-### Govern 1.5: Suggested Work Products
+### Govern 1.5 Suggested Work Products
 
 * AI Risk Management Monitoring Plan - A comprehensive document that outlines the scope, objectives, and frequency of the AI risk management monitoring activities, ensuring all critical AI systems, processes, and data are under continuous observation.
 * Roles and Responsibilities Charter - A document that clearly assigns and describes roles and responsibilities for individuals and teams involved in AI risk management, ensuring accountability and effective coordination across the organization.

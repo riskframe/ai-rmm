@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Govern 1.7: Processes and procedures are in place for decommissioning and phasing out AI systems safely and in a manner that does not increase risks or decrease the organization’s trustworthiness.
+## Govern 1.7
+> Processes and procedures are in place for decommissioning and phasing out AI systems safely and in a manner that does not increase risks or decrease the organization’s trustworthiness. [@playbook]
 
 ### Govern 1.7.1. Establish decommissioning and phasing-out policies.
 
@@ -104,7 +105,7 @@ Continuously monitoring the decommissioning process is crucial to ensure adheren
 
 3. Evaluate the effectiveness of decommissioning processes and make improvements as needed.
 
-### Govern 1.7: Suggested Work Products
+### Govern 1.7 Suggested Work Products
 
 * AI Decommissioning Policy - A formal document that outlines the organization's approach to safely and responsibly decommissioning or phasing out AI systems, including criteria for decision-making and procedural steps.
 * AI Systems Decommissioning Plan - Detailed plans for each AI system identified for decommissioning, outlining steps for data migration, system shutdown, stakeholder communication, and security measures.

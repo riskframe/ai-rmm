@@ -4,9 +4,11 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-# Map 5: Impacts to individuals, groups, communities, organizations, and society are characterized.
+# Map 5
+> Impacts to individuals, groups, communities, organizations, and society are characterized. [@airmf]
 
-## Map 5.1: Likelihood and magnitude of each identified impact (both potentially beneficial and harmful) based on expected use, past uses of AI systems in similar contexts, public incident reports, feedback from those external to the team that developed or deployed the AI system, or other data are identified and documented.
+## Map 5.1
+> Likelihood and magnitude of each identified impact (both potentially beneficial and harmful) based on expected use, past uses of AI systems in similar contexts, public incident reports, feedback from those external to the team that developed or deployed the AI system, or other data are identified and documented. [@playbook]
 
 ### Map 5.1.1. Identify Potential Impacts.
 
@@ -78,7 +80,7 @@ This practice involves regularly reviewing and updating the assessment as the AI
 
 3. Maintain a living document that reflects the dynamic nature of the AI system's impacts and serves as an ongoing resource for responsible AI development.
 
-### Map 5.1: Suggested Work Products
+### Map 5.1 Suggested Work Products
 
 * Impact Assessment Report - A comprehensive document that outlines the potential impacts of the AI system, both beneficial and harmful, categorized by likelihood and magnitude. This report should include detailed analysis and synthesis of expected use cases, past experiences with similar AI systems, public incident reports, and feedback from external stakeholders.
 * Stakeholder Feedback Compilation - A collection of feedback from various stakeholders not directly involved in the development or deployment of the AI system, including experts, users, and potential beneficiaries. This compilation provides diverse perspectives on the AI system's impacts.

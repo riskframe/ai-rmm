@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Measure 3.2: Risk tracking approaches are considered for settings where AI risks are difficult to assess using currently available measurement techniques or where metrics are not yet available.
+## Measure 3.2
+> Risk tracking approaches are considered for settings where AI risks are difficult to assess using currently available measurement techniques or where metrics are not yet available. [@playbook]
 
 ### Measure 3.2.1. Recognize Risk Measurement Limitations.
 
@@ -76,7 +77,7 @@ Educational initiatives play a crucial role in highlighting the unique challenge
 
 3. Integrate risk management considerations into organizational training programs and educational materials.
 
-### Measure 3.2: Suggested Work Products
+### Measure 3.2 Suggested Work Products
 
 * Comprehensive documentation - Documentation acknowledging the limitations of current AI risk assessment methodologies, highlighting areas where traditional metrics fall short in capturing the dynamic nature of AI systems.
 * Summary reports - A set of reports from structured workshops and discussions with AI and domain experts, along with diverse stakeholders, aimed at uncovering hard-to-quantify AI risks.

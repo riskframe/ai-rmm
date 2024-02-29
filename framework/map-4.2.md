@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Map 4.2: Internal risk controls for components of the AI system, including third-party AI technologies, are identified and documented.
+## Map 4.2
+> Internal risk controls for components of the AI system, including third-party AI technologies, are identified and documented. [@playbook]
 
 ### Map 4.2.1. Identify and Assess Internal Risks for AI Components.
 
@@ -76,7 +77,7 @@ Instilling a culture of security and risk management involves fostering awarenes
 
 3. Establish clear accountability and reporting mechanisms for addressing security incidents and ensuring compliance with internal security policies.
 
-### Map 4.2: Suggested Work Products
+### Map 4.2 Suggested Work Products
 
 * Risk Assessment Report for AI Components - Detailed analysis of potential vulnerabilities, weaknesses, and threats within each AI component, including third-party technologies, with an evaluation of their potential impact on system security, reliability, and performance.
 * Internal Risk Control Strategy Document - A comprehensive document outlining specific risk control measures designed to mitigate identified risks, including security protocols, data governance frameworks, and monitoring systems.

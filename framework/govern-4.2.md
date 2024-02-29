@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Govern 4.2: Organizational teams document the risks and potential impacts of the AI technology they design, develop, deploy, evaluate, and use, and they communicate about the impacts more broadly.
+## Govern 4.2
+> Organizational teams document the risks and potential impacts of the AI technology they design, develop, deploy, evaluate, and use, and they communicate about the impacts more broadly. [@playbook]
 
 ### Govern 4.2.1. Establish a Risk Documentation Process.
 
@@ -76,7 +77,7 @@ Incorporating risk communication into the design and development of AI systems i
 
 3. Provide clear documentation and training materials for stakeholders on how to interpret AI outputs and identify potential risks.
 
-### Govern 4.2: Suggested Work Products
+### Govern 4.2 Suggested Work Products
 
 * Risk Documentation Guidelines - A comprehensive guide outlining the standardized process for documenting AI risks and impacts throughout the AI lifecycle.
 * Risk Communication Strategy - A detailed plan specifying how, when, and to whom AI risk-related information will be communicated, both internally and externally.

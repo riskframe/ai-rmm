@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Map 3.5: Processes for human oversight are defined, assessed, and documented in accordance with organizational policies from the govern function.
+## Map 3.5
+> Processes for human oversight are defined, assessed, and documented in accordance with organizational policies from the govern function. [@playbook]
 
 ### Map 3.5.1. Establish Human Oversight Roles and Responsibilities.
 
@@ -76,7 +77,7 @@ This practice involves gathering feedback from human operators, stakeholders, an
 
 3. Adapt oversight procedures, training programs, and system architecture as needed to maintain a robust human oversight framework.
 
-### Map 3.5: Suggested Work Products
+### Map 3.5 Suggested Work Products
 
 * Human Oversight Roles and Responsibilities Matrix - A comprehensive document that outlines the specific duties, authorities, and expectations for each role involved in overseeing AI systems, ensuring alignment with organizational policies.
 * Oversight Procedures Manual - Detailed documentation of all procedures related to human oversight activities, including data monitoring protocols, system auditing guidelines, and the review process for AI outputs.

@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Manage 4.3: Incidents and errors are communicated to relevant AI actors, including affected communities. Processes for tracking, responding to, and recovering from incidents and errors are followed and documented.
+## Manage 4.3
+> Incidents and errors are communicated to relevant AI actors, including affected communities. Processes for tracking, responding to, and recovering from incidents and errors are followed and documented. [@playbook]
 
 ### Manage 4.3.1. Establish a Clear Incident Reporting Process.
 
@@ -104,7 +105,7 @@ Highlighting the importance of incident reporting, response, and prevention is c
 
 3. Integrate incident response practices into organizational policies, procedures, and training programs to promote a culture of continuous improvement and risk mitigation.
 
-### Manage 4.3: Suggested Work Products
+### Manage 4.3 Suggested Work Products
 
 * Incident Reporting Process Documentation - A document outlining the steps and procedures for reporting incidents within AI systems, including roles and responsibilities.
 * Rapid Detection Mechanisms Implementation Report - A report detailing the implementation of automated monitoring tools and systems for rapid detection of anomalies or deviations in AI systems.

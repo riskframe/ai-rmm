@@ -4,9 +4,11 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-# Measure 1: Appropriate methods and metrics are identified and applied.
+# Measure 1
+> Appropriate methods and metrics are identified and applied. [@airmf]
 
-## Measure 1.1: Approaches and metrics for measurement of AI risks enumerated during the map function are selected for implementation starting with the most significant AI risks. The risks or trustworthiness characteristics that will not – or cannot – be measured are properly documented.
+## Measure 1.1
+> Approaches and metrics for measurement of AI risks enumerated during the map function are selected for implementation starting with the most significant AI risks. The risks or trustworthiness characteristics that will not – or cannot – be measured are properly documented. [@playbook]
 
 ### Measure 1.1.1. Select Appropriate Measurement Approaches.
 
@@ -90,7 +92,7 @@ Continuously assessing the effectiveness of measurement processes involves regul
 
 2. Gather feedback from stakeholders, experts, and data analysts to assess the quality and relevance of measurement data.
 
-### Measure 1.1: Suggested Work Products
+### Measure 1.1 Suggested Work Products
 
 * AI Risk Assessment Report - A comprehensive document outlining the most significant AI risks, their potential impacts, and the chosen measurement approaches for each risk.
 * Risk Prioritization Matrix - A structured framework or tool that ranks AI risks based on their significance, measurability, and potential impact, guiding the focus of measurement efforts.

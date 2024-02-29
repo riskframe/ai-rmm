@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Measure 2.9: The AI model is explained, validated, and documented, and AI system output is interpreted within its context – as identified in the map function – to inform responsible use and governance.
+## Measure 2.9
+> The AI model is explained, validated, and documented, and AI system output is interpreted within its context – as identified in the map function – to inform responsible use and governance. [@playbook]
 
 ### Measure 2.9.1. Explain the AI Model.
 
@@ -104,7 +105,7 @@ Education and training play a critical role in embedding explainability and vali
 
 3. Integrate explainability and validation considerations into organizational policies, procedures, and governance frameworks.
 
-### Measure 2.9: Suggested Work Products
+### Measure 2.9 Suggested Work Products
 
 * Explainability Report - A comprehensive document detailing the techniques and methodologies used to make the AI model's decisions understandable and interpretable, including feature importance, decision trees, and sensitivity analysis explanations.
 * Validation Summary - A report that outlines the validation activities conducted, including assessments of the AI model's accuracy, fairness, robustness, and generalizability, along with detailed performance metrics and areas for improvement.

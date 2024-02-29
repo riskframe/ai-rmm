@@ -4,9 +4,11 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-# Govern 3: Workforce diversity, equity, inclusion, and accessibility processes are prioritized in the mapping, measuring, and managing of AI risks throughout the lifecycle.
+# Govern 3
+> Workforce diversity, equity, inclusion, and accessibility processes are prioritized in the mapping, measuring, and managing of AI risks throughout the lifecycle. [@airmf]
 
-## Govern 3.1: Decision-making related to mapping, measuring, and managing AI risks throughout the lifecycle is informed by a diverse team (e.g., diversity of demographics, disciplines, experience, expertise, and backgrounds).
+## Govern 3.1
+> Decision-making related to mapping, measuring, and managing AI risks throughout the lifecycle is informed by a diverse team (e.g., diversity of demographics, disciplines, experience, expertise, and backgrounds). [@playbook]
 
 ### Govern 3.1.1. Foster a Culture of Inclusiveness.
 
@@ -78,7 +80,7 @@ Incorporating diverse perspectives in developing risk mitigation strategies enha
 
 3. Leverage diverse perspectives to identify creative and effective risk mitigation strategies that address the underlying issues.
 
-### Govern 3.1: Suggested Work Products
+### Govern 3.1 Suggested Work Products
 
 * Diversity and Inclusion Policy - A comprehensive document outlining the organization's commitment to diversity, equity, inclusion, and accessibility within AI risk management teams, including strategies for fostering an inclusive culture.
 * Diverse Team Composition Report - A report detailing the demographics, disciplines, experiences, expertise, and backgrounds of members within the AI risk management team, highlighting efforts to maintain diversity.

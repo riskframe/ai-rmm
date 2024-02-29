@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Map 1.5: Organizational risk tolerances are determined and documented.
+## Map 1.5
+> Organizational risk tolerances are determined and documented. [@playbook]
 
 ### Map 1.5.1. Establish an Organizational Risk Tolerance Framework.
 
@@ -74,7 +75,7 @@ The process of incorporating risk tolerances into the AI development process inv
 
 2. Use risk tolerances to guide decision-making throughout the AI lifecycle, from project prioritization to system deployment and operation.
 
-### Map 1.5: Suggested Work Products
+### Map 1.5 Suggested Work Products
 
 * Risk Tolerance Framework Document - A comprehensive document that outlines the organizational framework for defining, classifying, and managing risk tolerances, specifically tailored for AI development and deployment.
 * Risk Identification and Assessment Report - A detailed report identifying the types of risks relevant to AI, including technical, ethical, legal, and social risks, and assessing their potential impact on the organization.

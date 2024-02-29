@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Map 2.3: Scientific integrity and TEVV considerations are identified and documented, including those related to experimental design, data collection and selection (e.g., availability, representativeness, suitability), system trustworthiness, and construct validation
+## Map 2.3
+> Scientific integrity and TEVV considerations are identified and documented, including those related to experimental design, data collection and selection (e.g., availability, representativeness, suitability), system trustworthiness, and construct validation. [@playbook]
 
 ### Map 2.3.1. Establish a Scientific Integrity Framework.
 
@@ -104,7 +105,7 @@ Continuously reviewing and updating documentation on scientific integrity and TE
 
 3. Maintain a living document that captures the continuous learning and improvement process related to scientific integrity and TEVV in AI development.
 
-### Map 2.3: Suggested Work Products
+### Map 2.3 Suggested Work Products
 
 * Scientific Integrity Framework Document - A comprehensive document outlining the organization's framework for ensuring scientific integrity throughout the AI development lifecycle, including guidelines for experimental design, data collection, and ethical considerations.
 * Data Quality and Representativeness Report - An assessment report detailing the procedures for data collection, curation, and validation, along with measures taken to address data biases and ensure representativeness.

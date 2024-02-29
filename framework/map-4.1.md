@@ -4,9 +4,11 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-# Map 4: Risks and benefits are mapped for all components of the AI system including third-party software and data.
+# Map 4
+> Risks and benefits are mapped for all components of the AI system including third-party software and data. [@airmf]
 
-## Map 4.1: Approaches for mapping AI technology and legal risks of its components – including the use of third-party data or software – are in place, followed, and documented, as are risks of infringement of a third party’s intellectual property or other rights.
+## Map 4.1
+> Approaches for mapping AI technology and legal risks of its components – including the use of third-party data or software – are in place, followed, and documented, as are risks of infringement of a third party’s intellectual property or other rights. [@playbook]
 
 ### Map 4.1.1. Identify and Assess Legal Risks Associated with AI Technology.
 
@@ -78,7 +80,7 @@ Seeking legal counsel specializing in AI and data privacy laws is essential for 
 
 3. Maintain ongoing communication with legal counsel to ensure continuous compliance with evolving legal requirements.
 
-### Map 4.1: Suggested Work Products
+### Map 4.1 Suggested Work Products
 
 * Legal Risk Assessment Report - Documenting identified legal risks such as intellectual property infringement, data privacy violations, and algorithmic bias, along with their potential impact and assessment methodology.
 * Third-party Software and Data Use Policy - Outlining guidelines and legal implications for using third-party data, software, or models within the AI system.

@@ -4,9 +4,11 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-# Measure 4: Feedback about efficacy of measurement is gathered and assessed.
+# Measure 4
+> Feedback about efficacy of measurement is gathered and assessed. [@airmf]
 
-## Measure 4.1: Measurement approaches for identifying AI risks are connected to deployment context(s) and informed through consultation with domain experts and other end users. Approaches are documented.
+## Measure 4.1
+> Measurement approaches for identifying AI risks are connected to deployment context(s) and informed through consultation with domain experts and other end users. Approaches are documented. [@playbook]
 
 ### Measure 4.1.1. Identify Contextual Risk Parameters.
 
@@ -92,7 +94,7 @@ Encouraging collaboration among AI developers, domain experts, end users, and ri
 
 3. Integrate context-specific risk assessment into organizational policies, procedures, and governance frameworks.
 
-### Measure 4.1: Suggested Work Products
+### Measure 4.1 Suggested Work Products
 
 * Risk Context Analysis Report - A document outlining the comprehensive understanding of the AI system's deployment contexts, including application domains, target users, and operational environments, highlighting unique challenges and potential interactions that may pose risks.
 * Stakeholder Consultation Summary - A compilation of insights and feedback from domain experts and end users, gathered through workshops, interviews, and surveys, to inform risk identification and assessment methodologies.

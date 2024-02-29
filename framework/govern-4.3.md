@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Govern 4.3: Organizational practices are in place to enable AI testing, identification of incidents, and information sharing.
+## Govern 4.3
+> Organizational practices are in place to enable AI testing, identification of incidents, and information sharing. [@playbook]
 
 ### Govern 4.3.1. Establish a Comprehensive Testing Strategy.
 
@@ -76,7 +77,7 @@ Incorporating testing, identification, and sharing considerations into the desig
 
 3. Provide training and awareness to AI developers and operators on how to identify, report, and mitigate AI-related risks.
 
-### Govern 4.3: Suggested Work Products
+### Govern 4.3 Suggested Work Products
 
 * AI System Testing Plan - A comprehensive document outlining the testing strategy for AI systems, including methodologies for unit, integration, and system testing, as well as plans for both pre-deployment and post-deployment testing.
 * Incident Response Procedure - Detailed procedures for identifying, reporting, and managing AI-related incidents, emphasizing data breaches, biases, and ethical concerns, with clear roles and responsibilities defined.

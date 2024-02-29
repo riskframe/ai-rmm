@@ -4,9 +4,11 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-# Manage 2: Strategies to maximize AI benefits and minimize negative impacts are planned, prepared, implemented, documented, and informed by input from relevant AI actors.
+# Manage 2
+> Strategies to maximize AI benefits and minimize negative impacts are planned, prepared, implemented, documented, and informed by input from relevant AI actors. [@airmf]
 
-## Manage 2.1: Resources required to manage AI risks are taken into account – along with viable non-AI alternative systems, approaches, or methods – to reduce the magnitude or likelihood of potential impacts.
+## Manage 2.1
+> Resources required to manage AI risks are taken into account – along with viable non-AI alternative systems, approaches, or methods – to reduce the magnitude or likelihood of potential impacts. [@playbook]
 
 ### Manage 2.1.1. Evaluate Resource Allocation and Constraints.
 
@@ -92,7 +94,7 @@ Regularly reviewing and evaluating AI risk management strategies is crucial for 
 
 3. Maintain a continuous cycle of improvement and continuous adaptation to ensure the effectiveness of AI risk management practices.
 
-### Manage 2.1: Suggested Work Products
+### Manage 2.1 Suggested Work Products
 
 * Resource Allocation and Constraints Assessment Report - A report detailing the evaluation of resources required for AI risk management, including personnel, finances, and technical capabilities, along with any identified constraints.
 * Non-AI Alternatives Evaluation Summary - A summary document outlining the research and assessment of viable non-AI alternative systems, approaches, or methods, including feasibility, effectiveness, and cost-benefit analysis.

@@ -4,9 +4,11 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-# Manage 4: Risk treatments, including response and recovery, and communication plans for the identified and measured AI risks are documented and monitored regularly.
+# Manage 4
+> Risk treatments, including response and recovery, and communication plans for the identified and measured AI risks are documented and monitored regularly. [@airmf]
 
-## Manage 4.1: Post-deployment AI system monitoring plans are implemented, including mechanisms for capturing and evaluating input from users and other relevant AI actors, appeal and override, decommissioning, incident response, recovery, and change management.
+## Manage 4.1
+> Post-deployment AI system monitoring plans are implemented, including mechanisms for capturing and evaluating input from users and other relevant AI actors, appeal and override, decommissioning, incident response, recovery, and change management. [@playbook]
 
 ### Manage 4.1.1. Establish a Post-Deployment Monitoring Plan.
 
@@ -106,7 +108,7 @@ Encouraging a culture of continuous monitoring and improvement is crucial for ma
 
 3. Integrate AI monitoring practices into organizational policies, procedures, and training programs to ensure a holistic approach to system trustworthiness and effectiveness.
 
-### Manage 4.1: Suggested Work Products
+### Manage 4.1 Suggested Work Products
 
 * Post-Deployment Monitoring Plan Document - A comprehensive document outlining the plan for monitoring AI systems post-deployment, including mechanisms for capturing user feedback, incident response, and change management procedures.
 * User Feedback Collection Mechanism - An organized system or platform for collecting and evaluating user feedback on AI system performance, usability, and satisfaction.

@@ -4,9 +4,11 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-# Govern 6: Policies and procedures are in place to address AI risks and benefits arising from third-party software and data and other supply chain issues.
+# Govern 6
+> Policies and procedures are in place to address AI risks and benefits arising from third-party software and data and other supply chain issues. [@airmf]
 
-## Govern 6.1: Policies and procedures are in place that address AI risks associated with third-party entities, including risks of infringement of a third-party’s intellectual property or other rights.
+## Govern 6.1:
+> Policies and procedures are in place that address AI risks associated with third-party entities, including risks of infringement of a third-party’s intellectual property or other rights. [@playbook]
 
 ### Govern 6.1.1. Establish Policies and Procedures for Third-Party Collaboration.
 
@@ -92,7 +94,7 @@ Regularly conducting risk assessments is crucial in identifying and evaluating p
 
 3. Implement mitigation strategies to address identified risks and protect the organization's IP interests.
 
-### Govern 6.1: Suggested Work Products
+### Govern 6.1 Suggested Work Products
 
 * Collaboration Policy Document - A document that outlines the principles, expectations, and guidelines for engaging with third-party entities in AI projects, including IP considerations.
 * Due Diligence Report Template - A template for evaluating potential third-party partners, focusing on their compliance, reputation, and capabilities related to AI projects.

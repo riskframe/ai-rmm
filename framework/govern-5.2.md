@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Govern 5.2: Mechanisms are established to enable the team that developed or deployed AI systems to regularly incorporate adjudicated feedback from relevant AI actors into system design and implementation.
+## Govern 5.2
+> Mechanisms are established to enable the team that developed or deployed AI systems to regularly incorporate adjudicated feedback from relevant AI actors into system design and implementation. [@playbook]
 
 ### Govern 5.2.1. Establish an Adjudication Process.
 
@@ -76,7 +77,7 @@ Tracking the incorporation of adjudicated feedback into AI systems is essential 
 
 3. Use feedback tracking data to improve the effectiveness of feedback mechanisms and the overall feedback-ingestion process.
 
-### Govern 5.2: Suggested Work Products
+### Govern 5.2 Suggested Work Products
 
 * Feedback Adjudication Policy Document - A comprehensive document outlining the formal process for adjudicating feedback from relevant AI actors, including the criteria for judging feedback and the authority structure for decision-making.
 * Feedback Integration Guidelines - Detailed guidelines for integrating adjudicated feedback into AI system design and implementation, providing clear instructions on the mechanisms and channels for feedback communication.

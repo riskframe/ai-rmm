@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Govern 1.2: The characteristics of trustworthy AI are integrated into organizational policies, processes, procedures, and practices.
+## Govern 1.2
+> The characteristics of trustworthy AI are integrated into organizational policies, processes, procedures, and practices. [@playbook]
 
 ### Govern 1.2.1. Define and document the characteristics of trustworthy AI.
 
@@ -76,7 +77,7 @@ Fostering a culture of trustworthiness in an organization centers around promoti
 
 3. Foster a culture of continuous improvement by openly discussing AI ethics challenges and seeking solutions to address them.
 
-### Govern 1.2: Suggested Work Products
+### Govern 1.2 Suggested Work Products
 
 * Trustworthy AI Framework Document - A comprehensive guide that defines and documents the characteristics of trustworthy AI, including fairness, transparency, accountability, privacy, and security, along with specific criteria for each characteristic.
 * Trustworthy AI Policy Integration Plan - A strategic document outlining the process for integrating the characteristics of trustworthy AI into existing organizational policies, with clear guidelines on data handling, algorithmic decision-making, user rights, and oversight mechanisms.

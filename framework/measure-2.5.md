@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Measure 2.5: The AI system to be deployed is demonstrated to be valid and reliable. Limitations of the generalizability beyond the conditions under which the technology was developed are documented.
+## Measure 2.5
+> The AI system to be deployed is demonstrated to be valid and reliable. Limitations of the generalizability beyond the conditions under which the technology was developed are documented. [@playbook]
 
 ### Measure 2.5.1. Establish Validity and Reliability Criteria.
 
@@ -90,7 +91,7 @@ Maintaining a living document that captures these updates and insights is crucia
 
 3. Maintain a living document that reflects the dynamic nature of the AI system's validity and reliability, ensuring it remains relevant and aligned with organizational objectives.
 
-### Measure 2.5: Suggested Work Products
+### Measure 2.5 Suggested Work Products
 
 * Validation and Reliability Criteria Specification - A document that outlines the clear and measurable criteria established to assess the AI system's validity and reliability, including factors like accuracy, fairness, and robustness.
 * Testing Plan Documentation - Comprehensive plans that detail the methodologies, procedures, benchmarks, and tools selected for conducting validation and reliability testing of the AI system.

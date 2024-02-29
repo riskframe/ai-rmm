@@ -4,7 +4,8 @@
 [//]: # (SOFTWARE LICENSE)
 [//]: # (This file is part of AI-RMM, which is distributed under GNU General Public License V3. See LICENSE.txt to get a full copy.)
     
-## Measure 4.3: Measurable performance improvements or declines based on consultations with relevant AI actors, including affected communities, and field data about context-relevant risks and trustworthiness characteristics are identified and documented.
+## Measure 4.3
+> Measurable performance improvements or declines based on consultations with relevant AI actors, including affected communities, and field data about context-relevant risks and trustworthiness characteristics are identified and documented. [@playbook]
 
 ### Measure 4.3.1. Gather Field Data and Identify Performance Trends.
 
@@ -90,7 +91,7 @@ Prioritizing evidence-based interventions that tackle the root causes of perform
 
 3. Make performance improvement a core objective of AI development and deployment, ensuring that AI systems consistently deliver value and meet the needs of stakeholders.
 
-### Measure 4.3: Suggested Work Products
+### Measure 4.3 Suggested Work Products
 
 * Performance Trends Report - A comprehensive document that details the performance metrics analyzed over time, highlighting areas of improvement and concern.
 * Stakeholder Feedback Compilation - A collection of insights and observations from AI developers, operators, decision-makers, and affected communities regarding the AI system's performance and impact.
