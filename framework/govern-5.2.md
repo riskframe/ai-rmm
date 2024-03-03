@@ -43,7 +43,7 @@ Encouraging feedback from relevant AI actors involves creating an environment wh
 
 #### Sub Practices
 
-1. Promote a culture that welcomes and encourages feedback from relevant AI actors.
+1. Promote an inclusive and responsive culture that welcomes and encourages feedback from relevant AI actors.
 
 2. Make it easy for individuals and groups to provide feedback on AI systems.
 

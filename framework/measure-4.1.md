@@ -88,7 +88,7 @@ Encouraging collaboration among AI developers, domain experts, end users, and ri
 
 #### Sub Practices
 
-1. Promote a culture of context-aware risk management throughout the AI development lifecycle.
+1. Promote an adaptive culture of context-aware risk management throughout the AI development lifecycle.
 
 2. Encourage collaboration between AI developers, domain experts, end users, and risk management professionals.
 

@@ -107,11 +107,11 @@ Compiling detailed documentation of risk responses is essential for tracking and
 
 To cultivate a culture of risk awareness and proactive mitigation within an organization, it's crucial to instill a mindset that prioritizes anticipating and addressing potential AI risks. This involves promoting open communication channels for reporting and discussing risks, encouraging employees to actively identify and assess risks in their respective domains, and recognizing and rewarding proactive risk management behaviors. By integrating risk awareness and mitigation into the organizational culture, teams can collectively contribute to the continuous improvement of AI risk management practices, enhancing overall resilience and effectiveness.
 
-Promoting a culture of risk-awareness and responsibility involves educating stakeholders across the AI development lifecycle on identifying, assessing, prioritizing, and mitigating risks. This includes integrating risk management principles into organizational policies, procedures, and training programs, ensuring that all involved parties understand their roles and responsibilities in managing AI risks effectively. By fostering a shared understanding of risk management practices, teams can collaborate more effectively to address challenges and enhance the overall resilience of AI systems.
+Promoting a culture of risk awareness and responsibility involves educating stakeholders across the AI development lifecycle on identifying, assessing, prioritizing, and mitigating risks. This includes integrating risk management principles into organizational policies, procedures, and training programs, ensuring that all involved parties understand their roles and responsibilities in managing AI risks effectively. By fostering a shared understanding of risk management practices, teams can collaborate more effectively to address challenges and enhance the overall resilience of AI systems.
 
 #### Sub Practices
 
-1. Promote a culture of risk-awareness and responsibility throughout the AI development lifecycle.
+1. Promote a culture of risk awareness and responsibility throughout the AI development lifecycle.
 
 2. Educate AI developers, operators, and decision-makers on risk identification, assessment, prioritization, and mitigation strategies.
 

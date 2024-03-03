@@ -18,7 +18,7 @@ Emphasizing the importance of inclusivity, organizations should cultivate a cult
 
 #### Sub Practices
 
-1. Promote a culture that values diversity of thought, perspective, and background in AI risk management discussions.
+1. Promote (encourage and chamption) a culture that values diversity of thought, perspective, and background in AI risk management discussions.
 
 2. Encourage open and respectful communication among team members with varying viewpoints.
 

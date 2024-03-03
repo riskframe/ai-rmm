@@ -97,7 +97,7 @@ Fostering a culture of responsible AI development and deployment involves priori
 
 #### Sub Practices
 
-1. Promote a culture of responsible AI development and deployment throughout the organization.
+1. Promote an ingrained and holistic culture of responsible AI development and deployment throughout the organization.
 
 2. Educate AI developers, operators, and stakeholders about the importance of system trustworthiness, ethical considerations, and the need for proactive disengagement or deactivation mechanisms.
 

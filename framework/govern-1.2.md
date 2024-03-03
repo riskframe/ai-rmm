@@ -71,7 +71,7 @@ Fostering a culture of trustworthiness in an organization centers around promoti
 
 #### Sub Practices
 
-1. Promote a culture of trustworthiness within the organization, encouraging open communication and collaboration on AI ethics and responsible AI practices.
+1. Promote (leveraging methods like strategic communication, education, policy-making, and leadership support) a culture of trustworthiness within the organization, encouraging open communication and collaboration on AI ethics and responsible AI practices.
 
 2. Provide training and education to employees on the principles of trustworthy AI and how to apply them in their work.
 
