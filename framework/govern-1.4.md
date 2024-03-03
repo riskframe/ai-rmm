@@ -89,7 +89,7 @@ Ensuring risk management is a core component of the AI governance framework is c
 
 2. Establish clear lines of authority and accountability for risk management within the AI governance structure.
 
-3. Promote continuous learning and improvement in AI risk management practices through feedback loops and lessons learned.
+3. Promote (encouraging regular review) continuous learning and improvement in AI risk management practices through feedback loops and lessons learned.
 
 ### Govern 1.4 Suggested Work Products
 

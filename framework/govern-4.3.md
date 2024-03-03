@@ -57,7 +57,7 @@ Encouraging a culture of open and honest reporting is crucial for effectively ma
 
 #### Sub Practices
 
-1. Promote a culture that encourages open and honest reporting of AI-related incidents, without fear of retaliation.
+1. Promote (cultivate and diligently foster) a culture that encourages open and honest reporting of AI-related incidents, without fear of retaliation.
 
 2. Implement procedures for protecting the privacy and anonymity of individuals who report incidents.
 

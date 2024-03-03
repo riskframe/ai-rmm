@@ -60,7 +60,7 @@ Encouraging open and transparent communication with external stakeholders is vit
 
 #### Sub Practices
 
-1. Promote open and transparent communication with external stakeholders throughout the AI development and deployment lifecycle.
+1. Promote consistent (regular) and proactive open and transparent communication with external stakeholders throughout the AI development and deployment lifecycle.
 
 2. Encourage open dialogue and collaboration with stakeholders to address their concerns and incorporate their perspectives into AI solutions.
 

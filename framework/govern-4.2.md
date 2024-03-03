@@ -57,7 +57,7 @@ Encouraging transparency and openness in discussing AI-related risks and impacts
 
 #### Sub Practices
 
-1. Promote a culture of transparency and openness in discussing AI-related risks and impacts.
+1. Promote (cultivate and diligently foster) a culture of transparency and openness in discussing AI-related risks and impacts.
 
 2. Encourage open dialogue and collaboration among stakeholders, including AI developers, operators, users, and affected communities.
 

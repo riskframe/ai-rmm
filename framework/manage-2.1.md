@@ -74,7 +74,7 @@ Encouraging a culture of resource optimization and cost-effectiveness is crucial
 
 #### Sub Practices
 
-1. Promote a culture of resource optimization and cost-effectiveness within AI risk management practices.
+1. Promote a disciplined and strategic culture of resource optimization and cost-effectiveness within AI risk management practices.
 
 2. Encourage the use of data-driven decision-making and risk-based prioritization to allocate resources effectively.
 

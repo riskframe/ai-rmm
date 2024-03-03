@@ -18,7 +18,7 @@ Promoting a culture of critical thinking and safety involves valuing ongoing que
 
 #### Sub Practices
 
-1. Promote a culture that values critical thinking, questioning assumptions, and considering the potential impacts of AI systems.
+1. Promote (advocate for and reinforce) a culture that values critical thinking, questioning assumptions, and considering the potential impacts of AI systems.
 
 2. Encourage open communication and debate among stakeholders to identify and address potential risks and ethical concerns.
 
@@ -46,7 +46,7 @@ Emphasizing the importance of explainability and transparency is essential for e
 
 #### Sub Practices
 
-1. Promote the development of AI systems that are explainable and transparent in their decision-making processes.
+1. Promote (through e.g., leadership support, education, feedback loops) the development of AI systems that are explainable and transparent in their decision-making processes.
 
 2. Enable stakeholders to understand the rationale behind AI decisions and identify potential biases or errors.
 
