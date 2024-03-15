@@ -12,18 +12,30 @@ Within this repo you will find a comprehensive framework for managing AI risks a
 
 ### Structure 
 
-AI-RMM is structured around practices and sub-practices, each addressing specific aspects of AI risk management and implementation. Practices are numbered in the format x.x.x, correlating with NIST AI RMF subcategories to provide a clear mapping between the two frameworks. Each practice of AI-RMM aims to answer a 'how' question of implementation on that 'what' of a specific NIST AI RMF subcategory. 
+AI-RMM is structured around practices and sub-practices, each addressing specific aspects of AI risk management and implementation. Practices are numbered in the format x.x.x, correlating with NIST AI RMF subcategories to provide a clear mapping between the two frameworks. Each practice of AI-RMM aims to answer a _'how'_ question of implementation on that _'what'_ of a specific NIST AI RMF subcategory. The image below illustrates this link between AI-RMM and NIST AI RMF. 
+
+![Visual Structure of AI-RMM](assets/ai-rmm-visual-structure.png)
+
+AI-RMM practices are defined as specific actions, methodologies, or procedures that an organization implements to achieve resilience while utilizing AI systems. Below each AI-RMM practice are a set of sub practices. AI-RMM sub practices are defined as granular guidance on implementing the practice in a practical, actionable way. Sometimes AI-RMM sub practices are written in a format that references the AI-RMM practice they are a part of, i.e., x.x.x.x, where x is a digit. Sub practices serve to support and augment the implementation of practices by providing detailed instructions or recommendations, ensuring that organizations can effectively apply the principles outlined in AI-RMM to their AI systems.
 
 ### Examples 
 
 Below are a few examples to illustrate how AI-RMM practices align with NIST AI RMF subcategories.
 
-- The AI-RMM practice _"Map 2.2.2. Define Human Oversight and Overriding Mechanisms"_, is one of the 5 AI-RMM practices (the 'how') helping your organization achieve (the 'what') of the NIST AI RMF subcategory of _"Map 2.2 Information about the AI system’s knowledge limits and how system output may be utilized and overseen by humans is documented"_. 
-- The AI-RMM practice _"Govern 6.1.6. Conduct Regular Risk Assessments"_, is one of the 6 AI-RMM practices (the 'how') helping your organization achieve (the 'what') of the NIST AI RMF subcategory of _"Govern 6.1 Policies and procedures are in place that address AI risks associated with third-party entities, including risks of infringement of a third-party’s intellectual property or other rights"_.
-- The AI-RMM practice _"Measure 1.3.4. Tailor Assessment Involvement to Risk Tolerance"_, is one of the 6 AI-RMM practices (the 'how') helping your organization achieve (the 'what') of the NIST AI RMF subcategorry of _"Govern 1.3 Processes, procedures, and practices are in place to determine the needed level of risk management activities based on the organization's risk tolerance."_
-- The AI-RMM practice _"Manage 2.1.2. Explore Viable Non-AI Alternatives"_. is one of the 5 AI-RMM practices (the 'how') helping your organization achieve (the 'what') of the NIST AI RMF subcategory of _"Map 2.1 The specific tasks and methods used to implement the tasks that the AI system will support are defined"_.
+- **AI-RMM Practice "Map 2.2.2. Define Human Oversight and Overriding Mechanisms"**
+  - Addresses the NIST AI RMF subcategory _"Map 2.2 Information about the AI system’s knowledge limits and how system output may be utilized and overseen by humans is documented"_.
+  - One of the 5 AI-RMM practices (the 'how') helping your organization achieve (the 'what') for Map 2.2.
+- **AI-RMM Practice "Govern 6.1.6. Conduct Regular Risk Assessments"**
+  - Addresses the NIST AI RMF subcategory _"Govern 6.1 Policies and procedures are in place that address AI risks associated with third-party entities, including risks of infringement of a third-party’s intellectual property or other rights"_.
+  - One of the 6 AI-RMM practices (the 'how') helping your organization achieve (the 'what') for Govern 6.1 
+- **AI-RMM Practice "Measure 1.3.4. Tailor Assessment Involvement to Risk Tolerance"**
+  - Addresses the NIST AI RMF subcategory _"Measure 1.3 Internal experts [...] are involved in regular assessments and updates [...] per organizational risk tolerance"_.
+  - One of the 6 AI-RMM practices (the 'how') helping your organization achieve (the 'what') for Measure 1.3
+- **AI-RMM Practice "Manage 2.1.2. Explore Viable Non-AI Alternatives"**
+  - Addresses the NIST AI RMF subcategory _"Manage 2.1 Resources requirred to manage AI risks are taken into account [...] to reduce [...] impacts.
+  - One of the 5 AI-RMM practices (the 'how') helping your organization achieve (the 'what') for Manage 2.1
 
-AI-RMM practices are defined as specific actions, methodologies, or procedures that an organization implements to achieve resilience while utilizing AI systems. Below each AI-RMM practice are a set of sub practices. AI-RMM sub practices are defined as granular guidance on implementing the practice in a practical, actionable way. Sometimes AI-RMM sub practices are written in a format that references the AI-RMM practice they are a part of, i.e., x.x.x.x, where x is a digit. 
+AI-RMM practices such as the ones outlined above are instrumental in aligning the organization with the objectives and requirements set forth by the NIST AI RMF subcategories for managing their AI risks. By implementing these practices and their corresponding sub-practices, organizations can enhance their resilience and governance frameworks, ensuring the responsible and effective utilization of AI technologies while mitigating associated risks.
 
 ### Downloading the framework
 
