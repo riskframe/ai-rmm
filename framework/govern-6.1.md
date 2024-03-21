@@ -104,3 +104,4 @@ Regularly conducting risk assessments is crucial in identifying and evaluating p
 * Third-Party Collaboration Agreement - Templates designed to clearly define the roles, responsibilities, and expectations of all parties involved in AI projects.
 * Compliance Checklist for Third-Party AI - Collaborations to ensure all engagements are in line with established policies, legal requirements, and ethical standards.
 * Incident Response Plan for IP Concerns - A document that provides a clear, step-by-step guide for responding to and resolving IP-related incidents in third-party collaborations.
+* Risk Assessment & Mitigation Plan - Outlines potential problems (like IP infringement and data breaches) with third-party AI, defines control frequency (e.g., quarterly assessments), and details solutions to minimize risks.
