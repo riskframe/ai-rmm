@@ -52,9 +52,9 @@ Utilizing well-defined contracts and agreements with third-party partners is cru
 
 3. Ensure that agreements are legally sound and protect the organization's interests.
 
-### Govern 6.1.4. Establish a System for Managing IP Assets.
+### Govern 6.1.4. Establish a System for Managing IP Activities.
 
-To effectively manage IP assets in the context of third-party collaborations, it's crucial to establish a systematic approach that safeguards intellectual property rights and minimizes associated risks. This entails identifying and cataloging all IP assets relevant to the collaboration, implementing protocols for tracking and documenting ownership, usage, and licensing agreements, and instituting procedures for resolving disputes or addressing instances of infringement. By establishing a robust system for managing IP assets, organizations can ensure transparency, accountability, and legal compliance throughout the collaboration process, thereby mitigating potential risks and maximizing the value of intellectual property.
+To effectively manage IP activities in the context of third-party collaborations, it's crucial to establish a systematic approach that safeguards intellectual property rights and minimizes associated risks. This entails implementing a robust system for managing the organization's IP assets, including AI models, datasets, and code. It's essential to register IP with relevant authorities and maintain proper documentation. Additionally, developing clear procedures for sharing IP with third-party collaborators is critical. This approach ensures that intellectual property is properly managed and protected, mitigating risks associated with IP theft, infringement, and misuse in collaborative projects​​.
 
 Establishing a robust system for managing the organization's IP assets involves various steps, including registering IP with relevant authorities, documenting ownership, and developing clear procedures for sharing IP with third-party collaborators. By implementing these measures, organizations can ensure proper protection and utilization of their IP assets, enhancing collaboration effectiveness and minimizing associated risks.
 
