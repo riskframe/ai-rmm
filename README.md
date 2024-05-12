@@ -6,9 +6,17 @@ The Model aligns with the National Institute of Standards and Technology (NIST) 
 
 Drawing inspiration from the CERT Resilience Maturity Model (CERT RMM), the Model includes maturity levels (Initial, Managed, Defined, Quantitatively Managed, and Optimizing)  that organizations can progress through. These levels reflect the organization's capability to proactively manage and respond to AI-related disruptions, considering factors like governance, workforce diversity, accountability, and engagement with external stakeholders.
 
-## AI-RMM Structure and Examples
+## Understanding AI-Aware Organizational Resilience 
 
-Within this repo you will find a comprehensive framework for managing AI risks and implementing best practices, designed to guide organizations in leveraging AI technologies securely and effectively.
+"*AI-Aware Organizational Resilience*" refers to an organization's ability to anticipate, prepare for, respond to, and adapt from disruptions or challenges arising from the use of Artificial Intelligence (AI) systems. This goes beyond simply having resilient AI technology; in fact, in some cases the term goes against having resilient AI systems. "AI-Aware Organizational Resilience" focuses on recognizing AI's impact and encompasses the organization's overall capacity to manage risks associated with AI malfunction, misuse, or unforeseen consequences. 
+
+It involves developing strategies, processes, and cultures that enable the organization to maintain functionality and even thrive in the face of AI-related setbacks. This can include having robust backup plans, ethical guidelines for AI use, ongoing monitoring of AI performance, and training for employees on how to respond to AI-related incidents. The maturity of an organization's AI-Aware Organizational Resilience is reflected in its ability to proactively identify and mitigate potential risks, ensuring that AI integration enhances rather than hinders its long-term success.
+
+By introducing this term, we clearly distinguish between AI systems being resilient, and organizations being resilient from disruptions from AI systems. The goal is to ensure that AI integration supports rather than hinders long-term organizational success, making a clear distinction between resilient AI systems and organizations resilient to AI disruptions.
+
+Within this repo you will find a comprehensive framework for implementing "*AI-Aware Organizational Resilience*", in the form of managing AI risks and implementing best practices, designed to guide organizations in leveraging AI technologies securely and effectively.
+
+## AI-RMM Structure and Examples
 
 ### Structure 
 
