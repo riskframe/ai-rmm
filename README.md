@@ -49,4 +49,4 @@ AI-RMM practices such as the ones outlined above are instrumental in aligning th
 
 We make the framework easier to consume by providing it as a downloadable zip file, containing the supporting materials. Framework itself is provided in PDF, Excel and Json formats for programmatic and functional usage.
 
-[![Download the framework](https://img.shields.io/badge/RiskFrame.ai-Download_the_framework-2ea44f?style=for-the-badge)](https://www.riskframe.ai/download-framework)
+[![Download the framework](https://img.shields.io/badge/RiskFrame.ai-Download_the_framework-2ea44f?style=for-the-badge)](https://www.riskframe.ai/hubfs/framework-20240513.zip)
