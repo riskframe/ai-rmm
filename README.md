@@ -4,49 +4,18 @@ The AI-RMM is a conceptual framework used to assess, measure, and improve the re
 
 The Model aligns with the National Institute of Standards and Technology (NIST) AI Risk Management Framework RMF's Core Functions namely,  Govern, Map, Measure, and Manage. It is a tool used to evaluate and measure the effectiveness and sophistication of the risk management processes within such a framework.
 
-Drawing inspiration from the CERT Resilience Maturity Model (CERT RMM), the Model includes maturity levels (Initial, Managed, Defined, Quantitatively Managed, and Optimizing)  that organizations can progress through. These levels reflect the organization's capability to proactively manage and respond to AI-related disruptions, considering factors like governance, workforce diversity, accountability, and engagement with external stakeholders.
+Marking a new chapter in our journey towards advancing AI-Aware Organizational Resilience, as of the summer of 2024, the AI-RMM is now an Open Science Framework (OSF) project, you can access the latest version using the link below.
 
-## Understanding AI-Aware Organizational Resilience 
+---
 
-"*AI-Aware Organizational Resilience*" refers to an organization's ability to anticipate, prepare for, respond to, and adapt from disruptions or challenges arising from the use of Artificial Intelligence (AI) systems. This goes beyond simply having resilient AI technology; in fact, in some cases the term goes against having resilient AI systems. "AI-Aware Organizational Resilience" focuses on recognizing AI's impact and encompasses the organization's overall capacity to manage risks associated with AI malfunction, misuse, or unforeseen consequences. 
+<div align="center">
 
-It involves developing strategies, processes, and cultures that enable the organization to maintain functionality and even thrive in the face of AI-related setbacks. This can include having robust backup plans, ethical guidelines for AI use, ongoing monitoring of AI performance, and training for employees on how to respond to AI-related incidents. The maturity of an organization's AI-Aware Organizational Resilience is reflected in its ability to proactively identify and mitigate potential risks, ensuring that AI integration enhances rather than hinders its long-term success.
+### [Visit the New AI-RMM Home on the Open Science Framework](https://osf.io/kb8a5/)
 
-By introducing this term, we clearly distinguish between AI systems being resilient, and organizations being resilient from disruptions from AI systems. The goal is to ensure that AI integration supports rather than hinders long-term organizational success, making a clear distinction between resilient AI systems and organizations resilient to AI disruptions.
+</div>
 
-Within this repo you will find a comprehensive framework for implementing "*AI-Aware Organizational Resilience*", in the form of managing AI risks and implementing best practices, designed to guide organizations in leveraging AI technologies securely and effectively.
+---
 
-## AI-RMM Structure and Examples
+Click the link above to visit our new home on the Open Science Framework. We invite researchers, practitioners, and AI enthusiasts to join us on the OSF platform. Share your insights, propose new ideas, and collaborate with peers to push the boundaries of AI resilience. Your real-world experiences, challenges faced, and innovative solutions are invaluable to refining this amazing framework.
 
-### Structure 
 
-AI-RMM is structured around practices and sub-practices, each addressing specific aspects of AI risk management and implementation. Practices are numbered in the format x.x.x, correlating with NIST AI RMF subcategories to provide a clear mapping between the two frameworks. Each practice of AI-RMM aims to answer a _'how'_ question of implementation on that _'what'_ of a specific NIST AI RMF subcategory. The image below illustrates this link between AI-RMM and NIST AI RMF. 
-
-![Visual Structure of AI-RMM](assets/ai-rmm-visual-structure.png)
-
-AI-RMM practices are defined as specific actions, methodologies, or procedures that an organization implements to achieve resilience while utilizing AI systems. Below each AI-RMM practice are a set of sub practices. AI-RMM sub practices are defined as granular guidance on implementing the practice in a practical, actionable way. Sometimes AI-RMM sub practices are written in a format that references the AI-RMM practice they are a part of, i.e., x.x.x.x, where x is a digit. Sub practices serve to support and augment the implementation of practices by providing detailed instructions or recommendations, ensuring that organizations can effectively apply the principles outlined in AI-RMM to their AI systems.
-
-### Examples 
-
-Below are a few examples to illustrate how AI-RMM practices align with NIST AI RMF subcategories.
-
-- **AI-RMM Practice "Map 2.2.2. Define Human Oversight and Overriding Mechanisms"**
-  - Addresses the NIST AI RMF subcategory _"Map 2.2 Information about the AI system’s knowledge limits and how system output may be utilized and overseen by humans is documented"_.
-  - One of the 5 AI-RMM practices (the 'how') helping your organization achieve (the 'what') for Map 2.2.
-- **AI-RMM Practice "Govern 6.1.6. Conduct Regular Risk Assessments"**
-  - Addresses the NIST AI RMF subcategory _"Govern 6.1 Policies and procedures are in place that address AI risks associated with third-party entities, including risks of infringement of a third-party’s intellectual property or other rights"_.
-  - One of the 6 AI-RMM practices (the 'how') helping your organization achieve (the 'what') for Govern 6.1 
-- **AI-RMM Practice "Measure 1.3.4. Tailor Assessment Involvement to Risk Tolerance"**
-  - Addresses the NIST AI RMF subcategory _"Measure 1.3 Internal experts [...] are involved in regular assessments and updates [...] per organizational risk tolerance"_.
-  - One of the 6 AI-RMM practices (the 'how') helping your organization achieve (the 'what') for Measure 1.3
-- **AI-RMM Practice "Manage 2.1.2. Explore Viable Non-AI Alternatives"**
-  - Addresses the NIST AI RMF subcategory _"Manage 2.1 Resources requirred to manage AI risks are taken into account [...] to reduce [...] impacts.
-  - One of the 5 AI-RMM practices (the 'how') helping your organization achieve (the 'what') for Manage 2.1
-
-AI-RMM practices such as the ones outlined above are instrumental in aligning the organization with the objectives and requirements set forth by the NIST AI RMF subcategories for managing their AI risks. By implementing these practices and their corresponding sub-practices, organizations can enhance their resilience and governance frameworks, ensuring the responsible and effective utilization of AI technologies while mitigating associated risks.
-
-### Downloading the framework
-
-We make the framework easier to consume by providing it as a downloadable zip file, containing the supporting materials. Framework itself is provided in PDF, Excel and Json formats for programmatic and functional usage.
-
-[![Download the framework](https://img.shields.io/badge/RiskFrame.ai-Download_the_framework-2ea44f?style=for-the-badge)](https://www.riskframe.ai/hubfs/framework-20240513.zip)
